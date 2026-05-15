@@ -8,40 +8,52 @@ echo   Brasil Botões — Atualizando Catálogo
 echo ================================================
 echo.
 
-:: Vai para a pasta do script
-cd /d "%~dp0"
+:: Pasta do catálogo local
+cd /d "C:\catalogo_bb"
 
-:: Gera o JSON atualizado
-echo [1/3] Gerando dados do catálogo...
+:: Caminhos
+set PLANILHA_ORIGEM=C:\Users\Usuario\BRASIL BOTOES LTDA\Público - Documentos\catalogo\apoio\DADOS_DE_PRODUTOS_E_ESTOQUE.xlsm
+set PLANILHA_DESTINO=C:\catalogo_bb\apoio\DADOS_DE_PRODUTOS_E_ESTOQUE.xlsm
+
+echo [1/4] Copiando planilha do Sharepoint...
+copy /Y "%PLANILHA_ORIGEM%" "%PLANILHA_DESTINO%" > nul
+if %errorlevel% neq 0 (
+    echo.
+    echo  ERRO: Planilha nao encontrada no Sharepoint.
+    echo  Verifique se o arquivo esta sincronizado.
+    pause
+    exit /b 1
+)
+echo  Planilha copiada.
+
+echo.
+echo [2/4] Gerando dados do catalogo...
 python gerar_json.py
 if %errorlevel% neq 0 (
     echo.
-    echo  ERRO ao gerar o JSON. Verifique a planilha.
+    echo  ERRO ao gerar o JSON.
     pause
     exit /b 1
 )
 
-:: Envia para o GitHub
-echo [2/3] Enviando para o GitHub...
-git add produtos.json imagens/
-git commit -m "Atualização do catálogo %date% %time%"
-if %errorlevel% neq 0 (
-    echo  Nenhuma alteração detectada ou erro no commit.
-)
-
+echo.
+echo [3/4] Enviando para o GitHub...
+git add produtos.json
+git commit -m "Atualizacao de estoque %date%"
 git push origin main
 if %errorlevel% neq 0 (
     echo.
     echo  ERRO ao enviar para o GitHub.
-    echo  Verifique sua conexão com a internet.
+    echo  Verifique sua conexao com a internet.
     pause
     exit /b 1
 )
 
 echo.
-echo [3/3] Catálogo atualizado com sucesso!
+echo [4/4] Concluido!
 echo.
-echo  Acesse: https://brasilbotoes.github.io/catalogo
+echo  Catalogo atualizado em:
+echo  https://brasilbotoes.github.io/catalogo
 echo.
 echo ================================================
 timeout /t 5
