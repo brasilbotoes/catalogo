@@ -28866,5 +28866,19 @@
     "acabamento": "PERS",
     "saldo": 11,
     "imagem_base": "90007_C320_4F"
+  },
+  {
+    "reduzido": 136600001,
+    "descricao": "BOTAO BAS 13660 4F TAM 18 COR C2926 FOSCO LISO",
+    "referencia": "13660",
+    "cor_codigo": "C2926",
+    "cor_nome": "Leitoso Marrom",
+    "cor_familia": "Marrom",
+    "cor_hex": "#F0EDE8",
+    "tamanho": "18",
+    "furacao": "4F",
+    "acabamento": "LISO",
+    "saldo": 1000,
+    "imagem_base": "13660_C2926_4F"
   }
 ]
