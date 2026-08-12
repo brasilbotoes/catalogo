@@ -210,7 +210,7 @@ body { font-family: 'Nunito Sans', sans-serif; background: var(--off); color: va
     <div class="filter-group">
       <span class="filter-label">Acabamento</span>
       <select class="filter-select" id="f-acabamento">
-        <option value="">Todos</option><option>LISO</option><option>PERS</option>
+        <option value="">Todos</option><option value="BRILHO">BRILHO</option><option value="FOSCO">FOSCO</option>
       </select>
     </div>
     <div class="filter-group">
@@ -316,7 +316,7 @@ function filtrar() {
   const ref=document.getElementById('f-referencia').value;
   return produtos.filter(p=>{
     if(fur&&p.furacao!==fur)return false;
-    if(acab&&p.acabamento!==acab)return false;
+    if(acab&&!p.acabamento.includes(acab))return false;
     if(tam&&String(parseInt(p.tamanho))!==tam)return false;
     if(ref&&p.referencia!==ref)return false;
     if(filtroFamilia&&p.cor_familia!==filtroFamilia)return false;
@@ -339,7 +339,7 @@ function criarCard(p) {
   const div=document.createElement('div');
   div.className='card'; div.onclick=()=>abrirModal(p);
   const hex=p.cor_hex||familiaHex[p.cor_familia]||'#ccc';
-  const pers=p.acabamento==='PERS';
+  const pers=p.acabamento&&p.acabamento.includes('PERS');
   div.innerHTML=`
     <div class="card-stripe"></div>
     <div class="card-img-wrap" id="iw-${p.reduzido}">
