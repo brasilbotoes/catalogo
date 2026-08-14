@@ -22,7 +22,7 @@ if %errorlevel% neq 0 (
 
 echo.
 echo [2/3] Enviando para o GitHub...
-"C:\Program Files\Git\bin\git.exe" add produtos.json imagens/
+"C:\Program Files\Git\bin\git.exe" add -A
 "C:\Program Files\Git\bin\git.exe" commit -m "Atualizacao %date%"
 if %errorlevel% neq 0 (
     echo  Nenhuma alteracao detectada ou erro no commit.

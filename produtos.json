@@ -6663,24 +6663,5 @@
     "unidade": "GR",
     "imagem_base": "11278_C100_4F",
     "imagens": []
-  },
-  {
-    "reduzido": "101590035",
-    "referencia": "10159",
-    "descricao": "BOTAO POL 10159 2F TAM 24 COR C1350 FOSCO LISO",
-    "tamanho": "24",
-    "cor_codigo": "C1350",
-    "cor_nome": "FARELO BEGE",
-    "cor_familia": "",
-    "cor_hex": "",
-    "tingimento": "",
-    "furacao": "2F",
-    "acabamento": "FOSCO",
-    "material": "POLIESTER",
-    "obs": "",
-    "saldo": 16.0,
-    "unidade": "GR",
-    "imagem_base": "10159_C1350_2F",
-    "imagens": []
   }
 ]

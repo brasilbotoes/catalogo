@@ -197,6 +197,7 @@ def main():
     dados_encontrados = False
     produtos = []
     imagens_copiadas = 0
+    inativos_ignorados = 0
 
     for row in ws_est.iter_rows(values_only=True):
         if not dados_encontrados:
@@ -221,6 +222,13 @@ def main():
         acabam  = str(linha.get("ACABAM.", "") or "").strip()
         obs     = str(linha.get("OBS", "") or "").strip()
         material= str(linha.get("MATERIAL", "") or "").strip()
+        situacao= str(linha.get("SITUAÇÃO", "") or linha.get("SITUACAO", "") or "").strip()
+
+        # Só inclui produtos com situação Ativo (ignora Inativo, vazio, etc.)
+        if situacao.strip().lower() != "ativo":
+            inativos_ignorados += 1
+            continue
+
         saldo   = linha.get("QTD SALDO")
         um      = str(linha.get("UM", "") or "").strip()
         descr   = str(linha.get("DESCR.", "") or "").strip()
@@ -276,7 +284,8 @@ def main():
         }
         produtos.append(produto)
 
-    print(f"       {len(produtos)} produtos com saldo lidos")
+    print(f"       {len(produtos)} produtos com saldo lidos (Ativo)")
+    print(f"       {inativos_ignorados} produto(s) ignorado(s) por não estarem 'Ativo'")
     print(f"\n[3/4] Imagens copiadas para pasta imagens/: {imagens_copiadas} arquivo(s)")
 
     # Salva JSON
