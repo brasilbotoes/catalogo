@@ -1,46 +1,33 @@
 @echo off
 chcp 65001 > nul
-title Atualizar Catálogo Brasil Botões
+title Atualizar Catalogo Brasil Botoes
 
 echo.
-echo ================================================
-echo   Brasil Botões — Atualizando Catálogo
-echo ================================================
+echo ====================================================
+echo   Brasil Botoes ^| Atualizando Catalogo
+echo ====================================================
 echo.
 
-:: Pasta do catálogo local
-cd /d "C:\catalogo_bb"
+cd /d "%~dp0"
 
-:: Caminhos
-set PLANILHA_ORIGEM=C:\Users\Usuario\BRASIL BOTOES LTDA\Público - Documentos\catalogo\apoio\DADOS_DE_PRODUTOS_E_ESTOQUE.xlsm
-set PLANILHA_DESTINO=C:\catalogo_bb\apoio\DADOS_DE_PRODUTOS_E_ESTOQUE.xlsm
-
-echo [1/4] Copiando planilha do Sharepoint...
-copy /Y "%PLANILHA_ORIGEM%" "%PLANILHA_DESTINO%" > nul
-if %errorlevel% neq 0 (
-    echo.
-    echo  ERRO: Planilha nao encontrada no Sharepoint.
-    echo  Verifique se o arquivo esta sincronizado.
-    pause
-    exit /b 1
-)
-echo  Planilha copiada.
-
-echo.
-echo [2/4] Gerando dados do catalogo...
-python gerar_json.py
+echo [1/3] Gerando dados do catalogo...
+python "%~dp0gerar_json.py"
 if %errorlevel% neq 0 (
     echo.
     echo  ERRO ao gerar o JSON.
+    echo  Verifique se a planilha esta fechada e tente novamente.
     pause
     exit /b 1
 )
 
 echo.
-echo [3/4] Enviando para o GitHub...
-git add produtos.json
-git commit -m "Atualizacao de estoque %date%"
-git push origin main
+echo [2/3] Enviando para o GitHub...
+"C:\Program Files\Git\bin\git.exe" add produtos.json imagens/
+"C:\Program Files\Git\bin\git.exe" commit -m "Atualizacao %date%"
+if %errorlevel% neq 0 (
+    echo  Nenhuma alteracao detectada ou erro no commit.
+)
+"C:\Program Files\Git\bin\git.exe" push origin main
 if %errorlevel% neq 0 (
     echo.
     echo  ERRO ao enviar para o GitHub.
@@ -50,10 +37,9 @@ if %errorlevel% neq 0 (
 )
 
 echo.
-echo [4/4] Concluido!
+echo [3/3] Catalogo atualizado com sucesso!
 echo.
-echo  Catalogo atualizado em:
-echo  https://brasilbotoes.github.io/catalogo
+echo  Acesse: https://brasilbotoes.github.io/catalogo
 echo.
-echo ================================================
+echo ====================================================
 timeout /t 5

@@ -74,6 +74,7 @@ body { font-family: 'Nunito Sans', sans-serif; background: var(--off); color: va
 }
 .btn-clear:hover { border-color: var(--azul); color: var(--azul); }
 .filters-row { display: flex; gap: 16px; flex-wrap: wrap; align-items: flex-end; }
+.filters-row-selects { margin-top: 12px; }
 .filter-group { display: flex; flex-direction: column; gap: 4px; }
 .filter-label { font-size: 9px; font-weight: 900; text-transform: uppercase; letter-spacing: 0.12em; color: var(--azul); }
 .filter-select {
@@ -195,11 +196,13 @@ body { font-family: 'Nunito Sans', sans-serif; background: var(--off); color: va
     </div>
     <button class="btn-clear" onclick="limparFiltros()">Limpar filtros</button>
   </div>
-  <div class="filters-row">
+  <div class="filters-row filters-row-familia">
     <div class="filter-group">
       <span class="filter-label">Família de cor</span>
       <div class="cor-familia-filter" id="cor-chips"></div>
     </div>
+  </div>
+  <div class="filters-row filters-row-selects">
     <div class="filter-group">
       <span class="filter-label">Furação</span>
       <select class="filter-select" id="f-furacao">
@@ -220,6 +223,14 @@ body { font-family: 'Nunito Sans', sans-serif; background: var(--off); color: va
     <div class="filter-group">
       <span class="filter-label">Referência</span>
       <select class="filter-select" id="f-referencia"><option value="">Todas</option></select>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">Material</span>
+      <select class="filter-select" id="f-material"><option value="">Todos</option></select>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">Cor (código)</span>
+      <select class="filter-select" id="f-corcodigo"><option value="">Todos</option></select>
     </div>
   </div>
 </div>
@@ -296,7 +307,13 @@ function montarFiltros() {
   const refs = [...new Set(produtos.map(p=>p.referencia).filter(Boolean))].sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}));
   const sr = document.getElementById('f-referencia');
   refs.forEach(r=>{const o=document.createElement('option');o.value=r;o.textContent=r;sr.appendChild(o);});
-  ['search','f-furacao','f-acabamento','f-tamanho','f-referencia'].forEach(id=>{
+  const materiais = [...new Set(produtos.map(p=>p.material).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'pt-BR'));
+  const sm = document.getElementById('f-material');
+  materiais.forEach(m=>{const o=document.createElement('option');o.value=m;o.textContent=m;sm.appendChild(o);});
+  const corcodigos = [...new Set(produtos.map(p=>p.cor_codigo).filter(Boolean))].sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}));
+  const sc = document.getElementById('f-corcodigo');
+  corcodigos.forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;sc.appendChild(o);});
+  ['search','f-furacao','f-acabamento','f-tamanho','f-referencia','f-material','f-corcodigo'].forEach(id=>{
     const el = document.getElementById(id);
     el.addEventListener(id==='search'?'input':'change', renderizar);
   });
@@ -314,11 +331,15 @@ function filtrar() {
   const acab=document.getElementById('f-acabamento').value;
   const tam=document.getElementById('f-tamanho').value;
   const ref=document.getElementById('f-referencia').value;
+  const mat=document.getElementById('f-material').value;
+  const corc=document.getElementById('f-corcodigo').value;
   return produtos.filter(p=>{
     if(fur&&p.furacao!==fur)return false;
     if(acab&&!p.acabamento.includes(acab))return false;
     if(tam&&String(parseInt(p.tamanho))!==tam)return false;
     if(ref&&p.referencia!==ref)return false;
+    if(mat&&p.material!==mat)return false;
+    if(corc&&p.cor_codigo!==corc)return false;
     if(filtroFamilia&&p.cor_familia!==filtroFamilia)return false;
     if(q){const txt=`${p.reduzido} ${p.descricao} ${p.referencia} ${p.cor_codigo} ${p.cor_nome} ${p.cor_familia}`.toLowerCase();if(!txt.includes(q))return false;}
     return true;
@@ -385,7 +406,7 @@ function abrirModal(p) {
   document.getElementById('m-desc').textContent=p.descricao;
   document.getElementById('m-saldo').textContent=p.saldo.toLocaleString('pt-BR');
   document.getElementById('m-unit').textContent='grosas';
-  const campos=[['Código',p.reduzido],['Referência',p.referencia],['Cor (código)',p.cor_codigo],['Cor (nome)',p.cor_nome||'—'],['Família',p.cor_familia||'—'],['Tamanho',p.tamanho],['Furação',p.furacao],['Acabamento',p.acabamento]];
+  const campos=[['Código',p.reduzido],['Referência',p.referencia],['Cor (código)',p.cor_codigo],['Cor (nome)',p.cor_nome||'—'],['Família',p.cor_familia||'—'],['Tamanho',p.tamanho],['Furação',p.furacao],['Acabamento',p.acabamento],['Material',p.material||'—']];
   document.getElementById('m-fields').innerHTML=campos.map(([l,v])=>`<div class="modal-field"><div class="modal-field-label">${l}</div><div class="modal-field-val">${v}</div></div>`).join('');
   const gal=document.getElementById('m-gallery');
   const mainImg=document.getElementById('m-main-img');
@@ -410,7 +431,7 @@ function fecharOverlay(e){if(e.target===document.getElementById('modal'))fecharM
 function fecharModal(){document.getElementById('modal').classList.remove('open');document.body.style.overflow='';}
 function limparFiltros(){
   document.getElementById('search').value='';
-  ['f-furacao','f-acabamento','f-tamanho','f-referencia'].forEach(id=>document.getElementById(id).value='');
+  ['f-furacao','f-acabamento','f-tamanho','f-referencia','f-material','f-corcodigo'].forEach(id=>document.getElementById(id).value='');
   filtroFamilia=''; document.querySelectorAll('.cor-chip').forEach(c=>c.classList.remove('active'));
   renderizar();
 }
