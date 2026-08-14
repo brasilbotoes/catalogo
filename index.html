@@ -389,7 +389,8 @@ function criarCard(p) {
     const img=document.getElementById(`im-${p.reduzido}`);
     const wrap=document.getElementById(`iw-${p.reduzido}`);
     if(!img)return;
-    img.src=`${IMAGES_BASE}${p.imagem_base}.png`;
+    const foto = (p.imagens && p.imagens[0]) ? p.imagens[0] : `${p.imagem_base}.png`;
+    img.src=`${IMAGES_BASE}${foto}`;
     img.onerror=()=>{
       img.style.display='none';
       const ni=document.createElement('div');
@@ -413,7 +414,8 @@ function abrirModal(p) {
   const mainWrap=document.getElementById('m-main-wrap');
   gal.innerHTML=''; mainWrap.style.display='none';
   let first=true;
-  ANGULOS.map(a=>`${IMAGES_BASE}${p.imagem_base}${a}.png`).forEach((src,i)=>{
+  const listaFotos = (p.imagens && p.imagens.length) ? p.imagens.map(f=>`${IMAGES_BASE}${f}`) : [`${IMAGES_BASE}${p.imagem_base}.png`];
+  listaFotos.forEach((src,i)=>{
     const img=document.createElement('img');
     img.src=src; img.alt=`Foto ${i+1}`;
     img.onerror=()=>img.remove();
