@@ -198,6 +198,7 @@ def main():
     produtos = []
     imagens_copiadas = 0
     inativos_ignorados = 0
+    sem_foto_ignorados = 0
 
     for row in ws_est.iter_rows(values_only=True):
         if not dados_encontrados:
@@ -259,6 +260,9 @@ def main():
         imagens = buscar_imagens(prefixo_furacao)
         if imagens:
             imagens_copiadas += len(imagens)
+        else:
+            sem_foto_ignorados += 1
+            continue  # só entram no catálogo produtos com pelo menos 1 foto
 
         # imagem_base: prefixo usado pelo index.html para carregar imagens
         imagem_base = prefixo_furacao  # ex: 17_C001_4F ou 17_C160+134_4F
@@ -286,6 +290,7 @@ def main():
 
     print(f"       {len(produtos)} produtos com saldo lidos (Ativo)")
     print(f"       {inativos_ignorados} produto(s) ignorado(s) por não estarem 'Ativo'")
+    print(f"       {sem_foto_ignorados} produto(s) ignorado(s) por não terem foto")
     print(f"\n[3/4] Imagens copiadas para pasta imagens/: {imagens_copiadas} arquivo(s)")
 
     # Salva JSON
