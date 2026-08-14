@@ -873,7 +873,9 @@
     "saldo": 1.0,
     "unidade": "",
     "imagem_base": "1651_C2521_1F",
-    "imagens": []
+    "imagens": [
+      "1651_C2521_1F.png"
+    ]
   },
   {
     "reduzido": "102180003",
@@ -2902,6 +2904,7 @@
     "unidade": "GR",
     "imagem_base": "10190_C145_4F",
     "imagens": [
+      "10190_C145_4F.jpg",
       "10190_C145_4F.png",
       "10190_C145_4F_lat.png"
     ]
@@ -3234,7 +3237,9 @@
     "saldo": 22.0,
     "unidade": "GR",
     "imagem_base": "1421_C001_4F",
-    "imagens": []
+    "imagens": [
+      "1421_C001_4F.jpg"
+    ]
   },
   {
     "reduzido": "101320020",
@@ -3454,7 +3459,9 @@
     "saldo": 30.0,
     "unidade": "GR",
     "imagem_base": "10223_C229_1F",
-    "imagens": []
+    "imagens": [
+      "10223_C229_1F.jpg"
+    ]
   },
   {
     "reduzido": "103920011",
@@ -3587,7 +3594,9 @@
     "saldo": 3.0,
     "unidade": "GR",
     "imagem_base": "10204_C174_4F",
-    "imagens": []
+    "imagens": [
+      "10204_C174_4F.jpg"
+    ]
   },
   {
     "reduzido": "112410001",
@@ -4085,7 +4094,9 @@
     "saldo": 7.0,
     "unidade": "GR",
     "imagem_base": "10186_C164_4F",
-    "imagens": []
+    "imagens": [
+      "10186_C164_4F.jpg"
+    ]
   },
   {
     "reduzido": "12200001",
@@ -4546,7 +4557,10 @@
     "saldo": 5.0,
     "unidade": "GR",
     "imagem_base": "10508_C1106_1F",
-    "imagens": []
+    "imagens": [
+      "10508_C1106_1F.png",
+      "10508_C1106_1F_verso.png"
+    ]
   },
   {
     "reduzido": "1840004",
@@ -4688,6 +4702,7 @@
     "unidade": "GR",
     "imagem_base": "184_C673_4F",
     "imagens": [
+      "184_C673_4F.jpg",
       "184_C673_4F.png",
       "184_C673_4F_verso.png",
       "184_C673_4F_lat.png"
@@ -4710,7 +4725,9 @@
     "saldo": 1.0,
     "unidade": "GR",
     "imagem_base": "184_C672_4F",
-    "imagens": []
+    "imagens": [
+      "184_C672_4F.jpg"
+    ]
   },
   {
     "reduzido": "104280028",
@@ -4748,7 +4765,9 @@
     "saldo": 1.0,
     "unidade": "GR",
     "imagem_base": "184_C674_4F",
-    "imagens": []
+    "imagens": [
+      "184_C674_4F.jpg"
+    ]
   },
   {
     "reduzido": "6630002",
@@ -4874,7 +4893,9 @@
     "saldo": 9.0,
     "unidade": "GR",
     "imagem_base": "10614_C468_4F",
-    "imagens": []
+    "imagens": [
+      "10614_C468_4F.jpg"
+    ]
   },
   {
     "reduzido": "230001",
@@ -5285,7 +5306,9 @@
     "saldo": 2.0,
     "unidade": "GR",
     "imagem_base": "10186_C164_4F",
-    "imagens": []
+    "imagens": [
+      "10186_C164_4F.jpg"
+    ]
   },
   {
     "reduzido": "101990295",
@@ -5361,7 +5384,9 @@
     "saldo": 10.0,
     "unidade": "GR",
     "imagem_base": "10185_C164_4F",
-    "imagens": []
+    "imagens": [
+      "10185_C164_4F.jpg"
+    ]
   },
   {
     "reduzido": "101830026",
@@ -5802,7 +5827,9 @@
     "saldo": 16.0,
     "unidade": "GR",
     "imagem_base": "10133_C920_4F",
-    "imagens": []
+    "imagens": [
+      "10133_C920_4F.jpg"
+    ]
   },
   {
     "reduzido": "103690002",
@@ -6205,6 +6232,7 @@
     "unidade": "GR",
     "imagem_base": "10190_C145_4F",
     "imagens": [
+      "10190_C145_4F.jpg",
       "10190_C145_4F.png",
       "10190_C145_4F_lat.png"
     ]
@@ -6482,6 +6510,7 @@
     "unidade": "GR",
     "imagem_base": "184_C673_4F",
     "imagens": [
+      "184_C673_4F.jpg",
       "184_C673_4F.png",
       "184_C673_4F_verso.png",
       "184_C673_4F_lat.png"
@@ -6662,6 +6691,25 @@
     "saldo": 15.0,
     "unidade": "GR",
     "imagem_base": "11278_C100_4F",
+    "imagens": []
+  },
+  {
+    "reduzido": "101590035",
+    "referencia": "10159",
+    "descricao": "BOTAO POL 10159 2F TAM 24 COR C1350 FOSCO LISO",
+    "tamanho": "24",
+    "cor_codigo": "C1350",
+    "cor_nome": "FARELO BEGE",
+    "cor_familia": "",
+    "cor_hex": "",
+    "tingimento": "",
+    "furacao": "2F",
+    "acabamento": "FOSCO",
+    "material": "POLIESTER",
+    "obs": "",
+    "saldo": 16.0,
+    "unidade": "GR",
+    "imagem_base": "10159_C1350_2F",
     "imagens": []
   }
 ]
