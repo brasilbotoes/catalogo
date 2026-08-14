@@ -382,7 +382,7 @@ function criarCard(p) {
       </div>
       <div class="card-footer">
         <span class="saldo-label">Saldo</span>
-        <span class="saldo-val">${p.saldo.toLocaleString('pt-BR')}&nbsp;<span class="saldo-unit">GS</span></span>
+        <span class="saldo-val">${p.saldo.toLocaleString('pt-BR')}&nbsp;<span class="saldo-unit">${p.unidade||'GS'}</span></span>
       </div>
     </div>`;
   setTimeout(()=>{
@@ -406,7 +406,7 @@ function abrirModal(p) {
   document.getElementById('m-ref').textContent=`Ref. ${p.referencia} · #${p.reduzido}`;
   document.getElementById('m-desc').textContent=p.descricao;
   document.getElementById('m-saldo').textContent=p.saldo.toLocaleString('pt-BR');
-  document.getElementById('m-unit').textContent='grosas';
+  document.getElementById('m-unit').textContent=p.unidade||'grosas';
   const campos=[['Código',p.reduzido],['Referência',p.referencia],['Cor (código)',p.cor_codigo],['Cor (nome)',p.cor_nome||'—'],['Família',p.cor_familia||'—'],['Tamanho',p.tamanho],['Furação',p.furacao],['Acabamento',p.acabamento],['Material',p.material||'—']];
   document.getElementById('m-fields').innerHTML=campos.map(([l,v])=>`<div class="modal-field"><div class="modal-field-label">${l}</div><div class="modal-field-val">${v}</div></div>`).join('');
   const gal=document.getElementById('m-gallery');
