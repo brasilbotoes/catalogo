@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brasil Botões — Catálogo do Representante</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --azul:#00BAD2;
+    --amarelo:#FBD722;
+    --verde:#6EBD4A;
+    --cinza:#4D5759;
+    --bg:#F7F9F9;
+    --card:#FFFFFF;
+    --texto:#2B3335;
+    --borda:#E3E8E8;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    font-family:'Nunito Sans', sans-serif;
+    background:var(--bg);
+    color:var(--texto);
+  }
+  header{
+    background:var(--cinza);
+    color:#fff;
+    padding:18px 24px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:12px;
+  }
+  header .titulo{
+    display:flex;
+    flex-direction:column;
+    gap:2px;
+  }
+  header .titulo small{
+    color:var(--amarelo);
+    font-weight:700;
+    letter-spacing:.04em;
+    text-transform:uppercase;
+    font-size:11px;
+  }
+  header .titulo h1{
+    margin:0;
+    font-size:20px;
+    font-weight:800;
+  }
+  header a.link-geral{
+    background:var(--azul);
+    color:#fff;
+    text-decoration:none;
+    padding:9px 16px;
+    border-radius:8px;
+    font-weight:700;
+    font-size:14px;
+    white-space:nowrap;
+  }
+  header a.link-geral:hover{ filter:brightness(1.08); }
+
+  .filtros{
+    max-width:1200px;
+    margin:20px auto 0;
+    padding:0 24px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  .filtros input, .filtros select{
+    font-family:inherit;
+    font-size:14px;
+    padding:10px 12px;
+    border:1px solid var(--borda);
+    border-radius:8px;
+    background:#fff;
+    color:var(--texto);
+  }
+  .filtros input[type="search"]{ flex:1 1 260px; }
+  .filtros select{ flex:0 1 170px; }
+
+  .contador{
+    max-width:1200px;
+    margin:12px auto 0;
+    padding:0 24px;
+    font-size:13px;
+    color:var(--cinza);
+  }
+
+  .grid{
+    max-width:1200px;
+    margin:14px auto 40px;
+    padding:0 24px;
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(200px, 1fr));
+    gap:16px;
+  }
+  .card{
+    background:var(--card);
+    border:1px solid var(--borda);
+    border-radius:12px;
+    overflow:hidden;
+    cursor:pointer;
+    transition:box-shadow .15s ease, transform .15s ease;
+  }
+  .card:hover{
+    box-shadow:0 6px 18px rgba(0,0,0,.08);
+    transform:translateY(-2px);
+  }
+  .card .foto{
+    width:100%;
+    aspect-ratio:1/1;
+    background:#EFF3F3 center/cover no-repeat;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:#9AA5A6;
+    font-size:12px;
+  }
+  .card .info{ padding:10px 12px 12px; }
+  .card .modelo{ font-weight:800; font-size:14px; }
+  .card .cor{ font-size:13px; color:var(--cinza); margin-top:2px; }
+  .card .tags{ display:flex; gap:6px; margin-top:8px; flex-wrap:wrap; }
+  .card .tag{
+    font-size:11px;
+    background:var(--bg);
+    border:1px solid var(--borda);
+    padding:2px 7px;
+    border-radius:6px;
+    color:var(--cinza);
+  }
+  .card .cliente{
+    margin-top:8px;
+    font-size:11px;
+    color:var(--azul);
+    font-weight:700;
+  }
+
+  .vazio{
+    max-width:1200px;
+    margin:60px auto;
+    text-align:center;
+    color:var(--cinza);
+    padding:0 24px;
+  }
+
+  .modal-fundo{
+    display:none;
+    position:fixed; inset:0;
+    background:rgba(0,0,0,.5);
+    align-items:center; justify-content:center;
+    padding:20px;
+    z-index:50;
+  }
+  .modal-fundo.aberto{ display:flex; }
+  .modal{
+    background:#fff;
+    border-radius:14px;
+    max-width:480px;
+    width:100%;
+    max-height:90vh;
+    overflow:auto;
+  }
+  .modal .foto-grande{
+    width:100%;
+    aspect-ratio:1/1;
+    background:#EFF3F3 center/cover no-repeat;
+  }
+  .modal .conteudo{ padding:18px 20px 22px; }
+  .modal h2{ margin:0 0 4px; font-size:18px; }
+  .modal .fechar{
+    float:right;
+    background:none;
+    border:none;
+    font-size:20px;
+    cursor:pointer;
+    color:var(--cinza);
+  }
+  .modal table{ width:100%; border-collapse:collapse; margin-top:10px; font-size:13px; }
+  .modal table td{ padding:5px 0; border-bottom:1px solid var(--borda); }
+  .modal table td:first-child{ color:var(--cinza); width:40%; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="titulo">
+    <small>Brasil Botões · Catálogo do Representante</small>
+    <h1>RONA REPRESENTACOES LTDA</h1>
+  </div>
+  <a class="link-geral" href="https://brasilbotoes.github.io/catalogo" target="_blank" rel="noopener">Ver catálogo geral →</a>
+</header>
+
+<div class="filtros">
+  <input type="search" id="busca" placeholder="Buscar por modelo, cor, cliente...">
+  <select id="filtroCor"><option value="">Família de cor</option></select>
+  <select id="filtroFuracao"><option value="">Furação</option></select>
+  <select id="filtroTamanho"><option value="">Tamanho</option></select>
+  <select id="filtroCliente"><option value="">Cliente</option></select>
+</div>
+
+<div class="contador" id="contador"></div>
+
+<div class="grid" id="grid"></div>
+<div class="vazio" id="vazio" style="display:none">Nenhum produto encontrado com esses filtros.</div>
+
+<div class="modal-fundo" id="modalFundo">
+  <div class="modal">
+    <div class="foto-grande" id="modalFoto"></div>
+    <div class="conteudo">
+      <button class="fechar" id="modalFechar">×</button>
+      <h2 id="modalModelo"></h2>
+      <div id="modalCor" style="color:var(--cinza);font-size:14px;"></div>
+      <table id="modalTabela"></table>
+    </div>
+  </div>
+</div>
+
+<script>
+let produtos = [];
+
+fetch('produtos.json')
+  .then(r => r.json())
+  .then(data => {
+    produtos = data;
+    montarFiltros();
+    renderizar();
+  })
+  .catch(err => {
+    document.getElementById('grid').innerHTML =
+      '<p style="grid-column:1/-1;color:#b00">Não foi possível carregar produtos.json.</p>';
+    console.error(err);
+  });
+
+function valoresUnicos(campo){
+  return [...new Set(produtos.map(p => p[campo]).filter(Boolean))].sort();
+}
+
+function montarFiltros(){
+  preencherSelect('filtroCor', valoresUnicos('cor_familia'));
+  preencherSelect('filtroFuracao', valoresUnicos('furacao'));
+  preencherSelect('filtroTamanho', valoresUnicos('tamanho'));
+  preencherSelect('filtroCliente', valoresUnicos('cliente'));
+
+  document.getElementById('busca').addEventListener('input', renderizar);
+  ['filtroCor','filtroFuracao','filtroTamanho','filtroCliente'].forEach(id =>
+    document.getElementById(id).addEventListener('change', renderizar)
+  );
+  document.getElementById('modalFechar').addEventListener('click', fecharModal);
+  document.getElementById('modalFundo').addEventListener('click', e => {
+    if (e.target.id === 'modalFundo') fecharModal();
+  });
+}
+
+function preencherSelect(id, valores){
+  const sel = document.getElementById(id);
+  valores.forEach(v => {
+    const opt = document.createElement('option');
+    opt.value = v; opt.textContent = v;
+    sel.appendChild(opt);
+  });
+}
+
+function renderizar(){
+  const termo = document.getElementById('busca').value.trim().toLowerCase();
+  const fCor = document.getElementById('filtroCor').value;
+  const fFuracao = document.getElementById('filtroFuracao').value;
+  const fTamanho = document.getElementById('filtroTamanho').value;
+  const fCliente = document.getElementById('filtroCliente').value;
+
+  const filtrados = produtos.filter(p => {
+    if (fCor && p.cor_familia !== fCor) return false;
+    if (fFuracao && p.furacao !== fFuracao) return false;
+    if (fTamanho && p.tamanho !== fTamanho) return false;
+    if (fCliente && p.cliente !== fCliente) return false;
+    if (termo){
+      const alvo = [p.modelo, p.cor_codigo, p.cor_nome, p.cliente, p.descricao]
+        .filter(Boolean).join(' ').toLowerCase();
+      if (!alvo.includes(termo)) return false;
+    }
+    return true;
+  });
+
+  document.getElementById('contador').textContent =
+    `${filtrados.length} produto${filtrados.length === 1 ? '' : 's'}`;
+
+  const grid = document.getElementById('grid');
+  const vazio = document.getElementById('vazio');
+  grid.innerHTML = '';
+
+  if (filtrados.length === 0){
+    vazio.style.display = 'block';
+    return;
+  }
+  vazio.style.display = 'none';
+
+  filtrados.forEach(p => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `
+      <div class="foto" style="${p.foto ? `background-image:url('../../${p.foto}')` : ''}">
+        ${p.foto ? '' : 'Sem foto'}
+      </div>
+      <div class="info">
+        <div class="modelo">${p.modelo}</div>
+        <div class="cor">${p.cor_codigo}${p.cor_nome ? ' · ' + p.cor_nome : ''}</div>
+        <div class="tags">
+          ${p.furacao ? `<span class="tag">${p.furacao}</span>` : ''}
+          ${p.tamanho ? `<span class="tag">Tam ${p.tamanho}</span>` : ''}
+        </div>
+        ${p.cliente ? `<div class="cliente">${p.cliente}</div>` : ''}
+      </div>
+    `;
+    card.addEventListener('click', () => abrirModal(p));
+    grid.appendChild(card);
+  });
+}
+
+function abrirModal(p){
+  document.getElementById('modalFoto').style.backgroundImage =
+    p.foto ? `url('../../${p.foto}')` : '';
+  document.getElementById('modalModelo').textContent = p.modelo;
+  document.getElementById('modalCor').textContent =
+    `${p.cor_codigo}${p.cor_nome ? ' · ' + p.cor_nome : ''}`;
+
+  const linhas = [
+    ['Cliente', p.cliente],
+    ['Descrição', p.descricao],
+    ['Tamanho', p.tamanho],
+    ['Furação', p.furacao],
+    ['Acabamento', p.acabamento],
+    ['Material', p.material],
+    ['Saldo em estoque', p.qtd_saldo],
+    ['Cód. Red.', p.cod_red],
+  ].filter(([, v]) => v !== null && v !== undefined && v !== '');
+
+  document.getElementById('modalTabela').innerHTML =
+    linhas.map(([k, v]) => `<tr><td>${k}</td><td>${v}</td></tr>`).join('');
+
+  document.getElementById('modalFundo').classList.add('aberto');
+}
+
+function fecharModal(){
+  document.getElementById('modalFundo').classList.remove('aberto');
+}
+</script>
+
+</body>
+</html>
