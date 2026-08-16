@@ -1847,5 +1847,28 @@
     "imagens": [
       "10804_C495_4F.jpg"
     ]
+  },
+  {
+    "reduzido": "101990043",
+    "referencia": "10199",
+    "descricao": "BOTAO POL 10199 4F TAM 24 COR C154  FOSCO LISO",
+    "tamanho": "24",
+    "cor_codigo": "C154",
+    "cor_nome": "Cinza carvão",
+    "cor_familia": "Cinza",
+    "cor_hex": "#2A2A2A",
+    "tingimento": "",
+    "furacao": "4F",
+    "acabamento": "FOSCO LISO",
+    "material": "POLIESTER",
+    "obs": "",
+    "saldo": 20.0,
+    "unidade": "GR",
+    "imagem_base": "10199_C154_4F",
+    "imagens": [
+      "10199_C154_4F.png",
+      "10199_C154_4F_verso.png",
+      "10199_C154_4F_lat.png"
+    ]
   }
 ]
