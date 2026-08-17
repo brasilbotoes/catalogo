@@ -5,6 +5,7 @@
     "tamanho": "30",
     "cor_codigo": "C001",
     "tingimento": null,
+    "personalizacao": "P2522",
     "cor_nome": null,
     "cor_familia": null,
     "cor_hex": null,
@@ -13,6 +14,7 @@
     "material": "POLIESTER",
     "descricao": "BOTAO POL 11133 4F TAM 30 COR C001 FOSCO PERS",
     "qtd_saldo": 23,
+    "unidade": "GR",
     "cliente": "G M D INDUSTRIA TEXTIL EIRELI",
     "foto": null
   },
@@ -22,6 +24,7 @@
     "tamanho": "18",
     "cor_codigo": "C011",
     "tingimento": null,
+    "personalizacao": "P8256",
     "cor_nome": null,
     "cor_familia": null,
     "cor_hex": null,
@@ -30,6 +33,7 @@
     "material": "POLIESTER",
     "descricao": "BOTAO POL 10180 4F TAM 18 COR C011 FOSCO PERS      ",
     "qtd_saldo": 5,
+    "unidade": "GR",
     "cliente": "AD-FASHION COMERCIO DE ROUPAS LTDA-EPP",
     "foto": null
   },
@@ -39,6 +43,7 @@
     "tamanho": "32",
     "cor_codigo": "C011",
     "tingimento": null,
+    "personalizacao": "P2886",
     "cor_nome": null,
     "cor_familia": null,
     "cor_hex": null,
@@ -47,6 +52,7 @@
     "material": "POLIESTER",
     "descricao": "BOTAO POL 284 4F TAM 32 COR C011 FO SCO PERS      ",
     "qtd_saldo": 12,
+    "unidade": "GR",
     "cliente": "J. VANDERLEI DA SILVA - CONFECCOES LTDA",
     "foto": null
   },
@@ -56,6 +62,7 @@
     "tamanho": "14",
     "cor_codigo": "C149",
     "tingimento": null,
+    "personalizacao": "P2833",
     "cor_nome": "AMARELADO",
     "cor_familia": null,
     "cor_hex": null,
@@ -64,6 +71,7 @@
     "material": "POLIESTER",
     "descricao": "BOTAO POL 12151 4F TAM 14 COR C149 BRILHO PERSON",
     "qtd_saldo": 36,
+    "unidade": "GR",
     "cliente": "F.M. MAGALHAES E CIA LTDA. - ME",
     "foto": null
   },
@@ -73,6 +81,7 @@
     "tamanho": "26",
     "cor_codigo": "C089",
     "tingimento": null,
+    "personalizacao": "P2572",
     "cor_nome": null,
     "cor_familia": null,
     "cor_hex": null,
@@ -81,6 +90,7 @@
     "material": "POLIESTER",
     "descricao": "BOTAO POL 10354 4F TAM 26 COR C089 FOSCO PERS",
     "qtd_saldo": 12,
+    "unidade": "GR",
     "cliente": "GREAT NEWS CONFECCOES LTDA.",
     "foto": null
   },
@@ -90,6 +100,7 @@
     "tamanho": "28",
     "cor_codigo": "C002",
     "tingimento": null,
+    "personalizacao": "P3772",
     "cor_nome": null,
     "cor_familia": null,
     "cor_hex": null,
@@ -98,6 +109,7 @@
     "material": "POLIESTER",
     "descricao": "BOTAO POL 1363 4F TAM 28 COR C002 FOSCO PERS TING E EST",
     "qtd_saldo": 1,
+    "unidade": "GR",
     "cliente": "GS2 IND_STRIA E COM. DE CONF. LTDA",
     "foto": null
   },
@@ -107,6 +119,7 @@
     "tamanho": "14",
     "cor_codigo": "C108",
     "tingimento": null,
+    "personalizacao": "P3173",
     "cor_nome": null,
     "cor_familia": null,
     "cor_hex": null,
@@ -115,6 +128,7 @@
     "material": "POLIESTER",
     "descricao": "BOTAO POL 1380 4F TAM 14 COR C108 BRILHO PERS",
     "qtd_saldo": 82,
+    "unidade": "GR",
     "cliente": "KRINDGES INDUSTRIAL S/A",
     "foto": null
   },
@@ -124,6 +138,7 @@
     "tamanho": "20",
     "cor_codigo": "C100",
     "tingimento": null,
+    "personalizacao": "P3466",
     "cor_nome": null,
     "cor_familia": null,
     "cor_hex": null,
@@ -132,6 +147,7 @@
     "material": "POLIESTER",
     "descricao": "PINGENTE POL STRASS 12790 1F TAM 20 COR C100 BRILHO PERS",
     "qtd_saldo": 9,
+    "unidade": "GR",
     "cliente": "CONFECCOES ACONCHEGO DO BEBE LTDA.",
     "foto": null
   }

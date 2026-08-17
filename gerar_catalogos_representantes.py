@@ -216,8 +216,19 @@ def ler_produtos_por_representante():
     idx_material = col("MATERIAL")
     idx_descr = col("DESCR.")
     idx_qtd = col("QTD SALDO")
+    idx_um = col("UM")
     idx_cliente = col("CLIENTE")
     idx_rep = col("REPRESENTANTE")
+    idx_codlaser = col("CÓD. LASER")
+    idx_desclaser = col("DESC.")
+
+    if idx_codlaser is None or idx_desclaser is None:
+        print("AVISO: coluna 'CÓD. LASER' e/ou 'DESC.' nao encontrada na aba Cliente - "
+              "o codigo de personalizacao nao sera exibido no catalogo do representante. "
+              "Confira se o nome da(s) coluna(s) na planilha bate exatamente com esses nomes.")
+    if idx_um is None:
+        print("AVISO: coluna 'UM' nao encontrada na aba Cliente - "
+              "o saldo sera exibido sem unidade de medida.")
 
     faltando = [n for n, i in [
         ("CÓD. RED.", idx_codred), ("MODELO", idx_modelo), ("COR", idx_cor),
@@ -248,6 +259,16 @@ def ler_produtos_por_representante():
         foto = buscar_foto(modelo, cor_fmt, ting, furos)
         # Sem foto? Segue no catalogo mesmo assim (regra diferente do geral - ver topo do arquivo).
 
+        # Codigo de personalizacao: "CÓD. LASER - DESC." (ex.: "P2560 - GATA BAKANA")
+        codlaser = str(row[idx_codlaser]).strip() if idx_codlaser is not None and row[idx_codlaser] not in (None, "") else None
+        desclaser = str(row[idx_desclaser]).strip() if idx_desclaser is not None and row[idx_desclaser] not in (None, "") else None
+        if codlaser and desclaser:
+            personalizacao = f"{codlaser} - {desclaser}"
+        elif codlaser:
+            personalizacao = codlaser
+        else:
+            personalizacao = None
+
         info_cor = cores.get(cor_fmt, {})
 
         produto = {
@@ -256,6 +277,7 @@ def ler_produtos_por_representante():
             "tamanho": str(row[idx_tamanho]).strip() if idx_tamanho is not None and row[idx_tamanho] is not None else None,
             "cor_codigo": f"C{cor_fmt}",
             "tingimento": ting,
+            "personalizacao": personalizacao,
             "cor_nome": (row[idx_desccor] if idx_desccor is not None and row[idx_desccor] else info_cor.get("nome")),
             "cor_familia": info_cor.get("familia"),
             "cor_hex": info_cor.get("hex"),
@@ -264,6 +286,7 @@ def ler_produtos_por_representante():
             "material": row[idx_material] if idx_material is not None else None,
             "descricao": row[idx_descr] if idx_descr is not None else None,
             "qtd_saldo": row[idx_qtd] if idx_qtd is not None else None,
+            "unidade": row[idx_um] if idx_um is not None and row[idx_um] not in (None, "") else None,
             "cliente": row[idx_cliente],
             "foto": foto,
         }

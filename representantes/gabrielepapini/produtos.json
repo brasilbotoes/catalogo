@@ -5,6 +5,7 @@
     "tamanho": "36",
     "cor_codigo": "C2926",
     "tingimento": null,
+    "personalizacao": "P3805",
     "cor_nome": null,
     "cor_familia": null,
     "cor_hex": null,
@@ -13,6 +14,7 @@
     "material": "BASTÃO",
     "descricao": "BOTAO BAS 13647 4F TAM 36 COR C2926 FOSCO PERS",
     "qtd_saldo": 12,
+    "unidade": "GR",
     "cliente": "GMLT4 INDUSTRIA E COMERCIO DE ARTIGO DO VESTUARIO LTDA",
     "foto": null
   },
@@ -22,6 +24,7 @@
     "tamanho": "36",
     "cor_codigo": "C2927",
     "tingimento": null,
+    "personalizacao": "P3805",
     "cor_nome": null,
     "cor_familia": null,
     "cor_hex": null,
@@ -30,6 +33,7 @@
     "material": "BASTÃO",
     "descricao": "BOTAO BAS 13647 4F TAM 36 COR C2927 FOSCO PERS",
     "qtd_saldo": 9,
+    "unidade": "GR",
     "cliente": "GMLT4 INDUSTRIA E COMERCIO DE ARTIGO DO VESTUARIO LTDA",
     "foto": null
   }

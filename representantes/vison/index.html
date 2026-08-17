@@ -226,6 +226,11 @@
     font-weight:900;
     color:var(--texto);
   }
+  .card .saldo-unid{
+    font-size:11px;
+    font-weight:600;
+    color:var(--cinza-l);
+  }
 
   .vazio{
     max-width:1200px;
@@ -498,12 +503,12 @@ function renderizar(){
         <div class="tags">
           ${p.furacao ? `<span class="tag">${p.furacao}</span>` : ''}
           ${p.tamanho ? `<span class="tag">Tam ${p.tamanho}</span>` : ''}
-          ${p.tingimento ? `<span class="tag tag-pers">Pers. +${p.tingimento}</span>` : ''}
+          ${p.personalizacao ? `<span class="tag tag-pers">${p.personalizacao}</span>` : ''}
         </div>
         ${p.cliente ? `<div class="cliente">${p.cliente}</div>` : ''}
         <div class="rodape">
           <span class="saldo-label">Saldo</span>
-          <span class="saldo-val">${p.qtd_saldo ?? '—'}</span>
+          <span class="saldo-val">${p.qtd_saldo ?? '—'}${p.unidade ? ` <span class="saldo-unid">${p.unidade}</span>` : ''}</span>
         </div>
       </div>
     `;
@@ -526,8 +531,8 @@ function abrirModal(p){
     ['Furação', p.furacao],
     ['Acabamento', p.acabamento],
     ['Material', p.material],
-    ['Código de personalização', p.tingimento ? `+${p.tingimento}` : null],
-    ['Saldo em estoque', p.qtd_saldo],
+    ['Código de personalização', p.personalizacao],
+    ['Saldo em estoque', p.qtd_saldo != null ? `${p.qtd_saldo}${p.unidade ? ' ' + p.unidade : ''}` : null],
     ['Cód. Red.', p.cod_red],
   ].filter(([, v]) => v !== null && v !== undefined && v !== '');
 
