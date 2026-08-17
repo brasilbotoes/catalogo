@@ -165,7 +165,7 @@
     "acabamento": "FOSCO PERS",
     "material": "POLIESTER",
     "descricao": "BOTAO POL 10615 4F TAM 16 COR C160 FOSCO PERS",
-    "qtd_saldo": 72,
+    "qtd_saldo": 105,
     "cliente": "CIA. HERING",
     "foto": null
   },
@@ -811,7 +811,7 @@
     "acabamento": "BRILHO LISO",
     "material": "POLIESTER",
     "descricao": "BOTAO POL 10252 4F TAM 18 COR C2457 BRILHO LISO",
-    "qtd_saldo": 19,
+    "qtd_saldo": 14,
     "cliente": "KYLY INDUSTRIA TEXTIL LTDA.",
     "foto": null
   },
@@ -862,7 +862,7 @@
     "acabamento": "BRILHO PERS",
     "material": "POLIESTER",
     "descricao": "BOTAO POL 10226 2F TAM 16 COR C654 BRILHO PERS      ",
-    "qtd_saldo": 22,
+    "qtd_saldo": 68,
     "cliente": "KYLY INDUSTRIA TEXTIL LTDA.",
     "foto": null
   },
@@ -1287,7 +1287,7 @@
     "acabamento": "FOSCO PERS",
     "material": "POLIESTER",
     "descricao": "BOTAO POL 10142 4F TAM 18 COR C2906 FOSCO PERS",
-    "qtd_saldo": 48,
+    "qtd_saldo": 33,
     "cliente": "KYLY INDUSTRIA TEXTIL LTDA.",
     "foto": null
   },
@@ -1423,7 +1423,7 @@
     "acabamento": "FOSCO PERS",
     "material": "POLIESTER",
     "descricao": "BOTAO POL 10142 4F TAM 18 COR C1489 FOSCO PERS",
-    "qtd_saldo": 30,
+    "qtd_saldo": 20,
     "cliente": "KYLY INDUSTRIA TEXTIL LTDA.",
     "foto": null
   },
@@ -1576,7 +1576,7 @@
     "acabamento": "FOSCO PERS",
     "material": "MADEIRA",
     "descricao": "BOTAO MDR 1601 4F TAM 18 COR C514  FOSCO PERS ",
-    "qtd_saldo": 25,
+    "qtd_saldo": 24,
     "cliente": "BRANDILI TEXTIL LTDA.",
     "foto": null
   },
@@ -2732,7 +2732,7 @@
     "acabamento": "BRILHO LISO",
     "material": "POLIESTER",
     "descricao": "BOTAO POL 00227 4F TAM 18 COR C2921 BRILHO LISO",
-    "qtd_saldo": 78,
+    "qtd_saldo": 68,
     "cliente": "KYLY INDUSTRIA TEXTIL LTDA.",
     "foto": null
   },

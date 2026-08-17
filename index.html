@@ -120,6 +120,7 @@ body { font-family: 'Nunito Sans', sans-serif; background: var(--off); color: va
 .badge { padding: 3px 8px; border-radius: 4px; font-size: 9px; font-weight: 900; letter-spacing: 0.08em; text-transform: uppercase; }
 .badge-estoque { background: var(--verde); color: #fff; }
 .badge-pers { background: var(--amarelo); color: var(--cinza); }
+.badge-semfoto { background: var(--cinza-l); color: #fff; }
 .card-body { padding: 12px 14px 14px; }
 .card-ref { font-size: 9px; font-weight: 900; text-transform: uppercase; letter-spacing: 0.12em; color: var(--azul); margin-bottom: 4px; }
 .card-desc { font-size: 12px; font-weight: 700; color: var(--cinza); line-height: 1.4; margin-bottom: 10px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
@@ -232,6 +233,14 @@ body { font-family: 'Nunito Sans', sans-serif; background: var(--off); color: va
       <span class="filter-label">Cor (código)</span>
       <select class="filter-select" id="f-corcodigo"><option value="">Todos</option></select>
     </div>
+    <div class="filter-group">
+      <span class="filter-label">Foto</span>
+      <select class="filter-select" id="f-foto">
+        <option value="">Todos</option>
+        <option value="com">Com foto</option>
+        <option value="sem">Sem foto</option>
+      </select>
+    </div>
   </div>
 </div>
 
@@ -313,7 +322,7 @@ function montarFiltros() {
   const corcodigos = [...new Set(produtos.map(p=>p.cor_codigo).filter(Boolean))].sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}));
   const sc = document.getElementById('f-corcodigo');
   corcodigos.forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;sc.appendChild(o);});
-  ['search','f-furacao','f-acabamento','f-tamanho','f-referencia','f-material','f-corcodigo'].forEach(id=>{
+  ['search','f-furacao','f-acabamento','f-tamanho','f-referencia','f-material','f-corcodigo','f-foto'].forEach(id=>{
     const el = document.getElementById(id);
     el.addEventListener(id==='search'?'input':'change', renderizar);
   });
@@ -333,6 +342,7 @@ function filtrar() {
   const ref=document.getElementById('f-referencia').value;
   const mat=document.getElementById('f-material').value;
   const corc=document.getElementById('f-corcodigo').value;
+  const foto=document.getElementById('f-foto').value;
   return produtos.filter(p=>{
     if(fur&&p.furacao!==fur)return false;
     if(acab&&!p.acabamento.includes(acab))return false;
@@ -340,6 +350,8 @@ function filtrar() {
     if(ref&&p.referencia!==ref)return false;
     if(mat&&p.material!==mat)return false;
     if(corc&&p.cor_codigo!==corc)return false;
+    if(foto==='com'&&!p.tem_foto)return false;
+    if(foto==='sem'&&p.tem_foto)return false;
     if(filtroFamilia&&p.cor_familia!==filtroFamilia)return false;
     if(q){const txt=`${p.reduzido} ${p.descricao} ${p.referencia} ${p.cor_codigo} ${p.cor_nome} ${p.cor_familia}`.toLowerCase();if(!txt.includes(q))return false;}
     return true;
@@ -368,6 +380,7 @@ function criarCard(p) {
       <div class="badge-row">
         <span class="badge badge-estoque">Em estoque</span>
         ${pers?'<span class="badge badge-pers">Personalizado</span>':''}
+        ${!p.tem_foto?'<span class="badge badge-semfoto">Sem foto</span>':''}
       </div>
     </div>
     <div class="card-body">
@@ -433,7 +446,7 @@ function fecharOverlay(e){if(e.target===document.getElementById('modal'))fecharM
 function fecharModal(){document.getElementById('modal').classList.remove('open');document.body.style.overflow='';}
 function limparFiltros(){
   document.getElementById('search').value='';
-  ['f-furacao','f-acabamento','f-tamanho','f-referencia','f-material','f-corcodigo'].forEach(id=>document.getElementById(id).value='');
+  ['f-furacao','f-acabamento','f-tamanho','f-referencia','f-material','f-corcodigo','f-foto'].forEach(id=>document.getElementById(id).value='');
   filtroFamilia=''; document.querySelectorAll('.cor-chip').forEach(c=>c.classList.remove('active'));
   renderizar();
 }

@@ -258,11 +258,12 @@ def main():
         prefixo = montar_prefixo_imagem(modelo, cor_raw, ting)
         prefixo_furacao = f"{prefixo}_{furos}" if furos else prefixo
         imagens = buscar_imagens(prefixo_furacao)
+        tem_foto = bool(imagens)
         if imagens:
             imagens_copiadas += len(imagens)
         else:
             sem_foto_ignorados += 1
-            continue  # só entram no catálogo produtos com pelo menos 1 foto
+            # produto continua entrando no catálogo, só fica marcado como sem foto
 
         # imagem_base: prefixo usado pelo index.html para carregar imagens
         imagem_base = prefixo_furacao  # ex: 17_C001_4F ou 17_C160+134_4F
@@ -285,13 +286,16 @@ def main():
             "unidade": um,
             "imagem_base": imagem_base, # usado pelo index.html para carregar imagens
             "imagens": imagens,
+            "tem_foto": tem_foto,
         }
         produtos.append(produto)
 
     print(f"       {len(produtos)} produtos com saldo lidos (Ativo)")
     print(f"       {inativos_ignorados} produto(s) ignorado(s) por não estarem 'Ativo'")
-    print(f"       {sem_foto_ignorados} produto(s) ignorado(s) por não terem foto")
+    print(f"       {sem_foto_ignorados} produto(s) sem foto (incluído no catálogo mesmo assim)")
+    com_foto = len(produtos) - sem_foto_ignorados
     print(f"\n[3/4] Imagens copiadas para pasta imagens/: {imagens_copiadas} arquivo(s)")
+    print(f"       {com_foto} produto(s) com foto | {sem_foto_ignorados} produto(s) sem foto (todos no catálogo)")
 
     # Salva JSON
     print(f"\n[4/4] Gravando produtos.json...")
