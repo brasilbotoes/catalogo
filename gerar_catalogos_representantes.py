@@ -220,10 +220,10 @@ def ler_produtos_por_representante():
     idx_cliente = col("CLIENTE")
     idx_rep = col("REPRESENTANTE")
     idx_codlaser = col("CÓD. LASER")
-    idx_desclaser = col("DESC.")
+    idx_desclaser = col("DESC")
 
     if idx_codlaser is None or idx_desclaser is None:
-        print("AVISO: coluna 'CÓD. LASER' e/ou 'DESC.' nao encontrada na aba Cliente - "
+        print("AVISO: coluna 'CÓD. LASER' e/ou 'DESC' nao encontrada na aba Cliente - "
               "o codigo de personalizacao nao sera exibido no catalogo do representante. "
               "Confira se o nome da(s) coluna(s) na planilha bate exatamente com esses nomes.")
     if idx_um is None:
