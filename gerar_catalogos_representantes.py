@@ -62,11 +62,25 @@ PASTA_REPRESENTANTES = os.path.join(PASTA_CATALOGO, "representantes")
 # Link do catalogo geral (para o botao "Ver catalogo geral" em cada pagina)
 LINK_CATALOGO_GERAL = "https://brasilbotoes.github.io/catalogo"
 
-# Apelidos curtos para a URL de cada representante (opcional).
-# Se um representante nao estiver aqui, o slug e gerado automaticamente do nome.
+# Apelidos curtos para a URL de cada representante (opcional, mas RECOMENDADO).
+# Quem estiver aqui usa exatamente esse slug (fixo, nunca muda). Quem nao estiver
+# aqui tem o slug abreviado automaticamente a partir do nome (ver abreviar_nome).
 MAPA_SLUG = {
-    # "VISON REPRESENTACOES LTDA": "vison",
-    # "MARVIC TEXTIL REPRESENTACOES LTDA": "marvic",
+    "GABRIEL E PAPINI REPRESENTACOES LTDA": "gabrielepapini",
+    "GRANDES CONTAS": "grandescontas",
+    "J M PEREIRA E CIA LTDA.": "jmpereira",
+    "E.P. REPRESENTACOES EIRELI": "eprepresentacoes",
+    "STUDIO NEW REPRESENTACOES LTDA ME": "studionew",
+    "A H DE OLIVEIRA REPRESENTACOES": "ahdeoliveira",
+}
+
+# Palavras que sao ignoradas ao abreviar o nome do representante (termos
+# juridicos/genericos que nao ajudam a identificar a empresa na URL).
+PALAVRAS_IGNORAR_SLUG = {
+    "LTDA", "EIRELI", "ME", "EPP", "SA", "S/A", "CIA", "COMERCIO",
+    "COMERCIAL", "REPRESENTACOES", "REPRESENTACAO", "REPRESENTACOES LTDA",
+    "INDUSTRIA", "INDUSTRIAL", "DISTRIBUIDORA", "IMPORTACAO", "EXPORTACAO",
+    "DE", "DO", "DA", "DOS", "DAS", "E",
 }
 # ==============================================================
 
@@ -79,10 +93,48 @@ def slugify(texto):
     return texto
 
 
+def abreviar_nome(nome):
+    """
+    Reduz o nome completo do representante a palavra mais significativa,
+    ignorando termos juridicos/genericos (LTDA, REPRESENTACOES, etc).
+    Ex.: 'VISON REPRESENTACOES LTDA' -> 'vison'
+         'MARVIC TEXTIL REPRESENTACOES LTDA' -> 'marvic'
+    Se, depois de tirar essas palavras, nao sobrar nada, usa o nome inteiro.
+    """
+    texto = unicodedata.normalize("NFKD", nome).encode("ASCII", "ignore").decode()
+    palavras = re.findall(r"[A-Za-z0-9]+", texto.upper())
+    significativas = [p for p in palavras if p not in PALAVRAS_IGNORAR_SLUG]
+    if not significativas:
+        significativas = palavras
+    return significativas[0].lower() if significativas else slugify(nome)
+
+
 def slug_representante(nome):
     if nome in MAPA_SLUG:
         return MAPA_SLUG[nome]
-    return slugify(nome)
+    return abreviar_nome(nome)
+
+
+def gerar_slugs_unicos(representantes):
+    """
+    Gera o slug de cada representante e resolve colisoes (dois representantes
+    diferentes que abreviariam para o mesmo nome). Em caso de colisao, o
+    segundo (e seguintes) ganham sufixo numerico: vison, vison-2, vison-3...
+    Dica: se dois representantes colidirem com frequencia, cadastre um deles
+    no MAPA_SLUG com um apelido fixo para nao depender da ordem da planilha.
+    """
+    usados = {}
+    slugs = {}
+    for rep in representantes:
+        base = slug_representante(rep)
+        slug = base
+        contador = 2
+        while slug in usados and usados[slug] != rep:
+            slug = f"{base}-{contador}"
+            contador += 1
+        usados[slug] = rep
+        slugs[rep] = slug
+    return slugs
 
 
 def cor_formatada(cor_raw):
@@ -242,8 +294,10 @@ def gerar_paginas(produtos_por_rep):
     os.makedirs(PASTA_REPRESENTANTES, exist_ok=True)
     links = []
 
+    slugs = gerar_slugs_unicos(produtos_por_rep.keys())
+
     for rep, produtos in produtos_por_rep.items():
-        slug = slug_representante(rep)
+        slug = slugs[rep]
         pasta_rep = os.path.join(PASTA_REPRESENTANTES, slug)
         os.makedirs(pasta_rep, exist_ok=True)
 

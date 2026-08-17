@@ -9430,5 +9430,25 @@
     "imagem_base": "_C000",
     "imagens": [],
     "tem_foto": false
+  },
+  {
+    "reduzido": "110700006",
+    "referencia": "",
+    "descricao": "BOTAO POL 11070 4F TAM 32 COR C1350 FOSCO LISO",
+    "tamanho": "",
+    "cor_codigo": "",
+    "cor_nome": "SERRAGEM BEGE",
+    "cor_familia": "",
+    "cor_hex": "",
+    "tingimento": "",
+    "furacao": "",
+    "acabamento": "",
+    "material": "",
+    "obs": "C1350",
+    "saldo": 6.0,
+    "unidade": "GR",
+    "imagem_base": "_C000",
+    "imagens": [],
+    "tem_foto": false
   }
 ]
