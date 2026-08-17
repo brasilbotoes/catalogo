@@ -200,6 +200,32 @@
     color:var(--azul-d);
     font-weight:700;
   }
+  .card .tag-pers{
+    background:var(--amarelo);
+    border-color:var(--amarelo);
+    color:var(--texto);
+    font-weight:800;
+  }
+  .card .rodape{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-top:10px;
+    padding-top:8px;
+    border-top:1px solid var(--borda);
+  }
+  .card .saldo-label{
+    font-size:9px;
+    font-weight:900;
+    text-transform:uppercase;
+    letter-spacing:.08em;
+    color:var(--azul-d);
+  }
+  .card .saldo-val{
+    font-size:15px;
+    font-weight:900;
+    color:var(--texto);
+  }
 
   .vazio{
     max-width:1200px;
@@ -472,8 +498,13 @@ function renderizar(){
         <div class="tags">
           ${p.furacao ? `<span class="tag">${p.furacao}</span>` : ''}
           ${p.tamanho ? `<span class="tag">Tam ${p.tamanho}</span>` : ''}
+          ${p.tingimento ? `<span class="tag tag-pers">Pers. +${p.tingimento}</span>` : ''}
         </div>
         ${p.cliente ? `<div class="cliente">${p.cliente}</div>` : ''}
+        <div class="rodape">
+          <span class="saldo-label">Saldo</span>
+          <span class="saldo-val">${p.qtd_saldo ?? '—'}</span>
+        </div>
       </div>
     `;
     card.addEventListener('click', () => abrirModal(p));
@@ -495,6 +526,7 @@ function abrirModal(p){
     ['Furação', p.furacao],
     ['Acabamento', p.acabamento],
     ['Material', p.material],
+    ['Código de personalização', p.tingimento ? `+${p.tingimento}` : null],
     ['Saldo em estoque', p.qtd_saldo],
     ['Cód. Red.', p.cod_red],
   ].filter(([, v]) => v !== null && v !== undefined && v !== '');
