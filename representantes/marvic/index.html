@@ -52,22 +52,37 @@
     flex-shrink:0;
     background:#fff;
   }
-  header .titulo{
+  header .logo-text-wrap{
     display:flex;
     flex-direction:column;
-    gap:2px;
   }
-  header .titulo small{
-    color:var(--amarelo);
-    font-weight:700;
-    letter-spacing:.04em;
-    text-transform:uppercase;
-    font-size:11px;
-  }
-  header .titulo h1{
-    margin:0;
+  header .logo-name{
     font-size:20px;
+    font-weight:900;
+    color:#fff;
+    letter-spacing:.02em;
+    line-height:1.1;
+  }
+  header .logo-name span{ color:var(--amarelo); }
+  header .logo-name sup{
+    font-size:10px;
+    color:#fff;
+    opacity:.85;
+    vertical-align:super;
+  }
+  header .logo-tag{
+    font-size:9px;
+    font-weight:700;
+    color:var(--amarelo);
+    letter-spacing:.16em;
+    text-transform:uppercase;
+    margin-top:4px;
+  }
+  header .rep-nome{
+    font-size:15px;
     font-weight:800;
+    color:#fff;
+    margin-top:3px;
   }
   header a.link-geral{
     background:var(--cinza);
@@ -242,9 +257,10 @@
 <header>
   <div class="header-left">
     <img src="../../logo_simbolo.jpeg" alt="Brasil Botões" class="logo-img">
-    <div class="titulo">
-      <small>Brasil Botões · Catálogo do Representante</small>
-      <h1>MARVIC TEXTIL REPRESENTACOES LTDA</h1>
+    <div class="logo-text-wrap">
+      <div class="logo-name">Brasil <span>Botões</span><sup>®</sup></div>
+      <div class="logo-tag">Estoque do Representante</div>
+      <div class="rep-nome">MARVIC TEXTIL REPRESENTACOES LTDA</div>
     </div>
   </div>
   <a class="link-geral" href="https://brasilbotoes.github.io/catalogo" target="_blank" rel="noopener">Ver catálogo geral →</a>
