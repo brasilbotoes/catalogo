@@ -38,6 +38,9 @@
     justify-content:space-between;
     flex-wrap:wrap;
     gap:12px;
+    position:sticky;
+    top:0;
+    z-index:100;
   }
   header .header-left{
     display:flex;
@@ -101,6 +104,13 @@
     background:#fff;
     border-bottom:2px solid var(--borda);
     padding:14px 24px;
+  }
+  @media (min-width: 769px){
+    .filters-wrap{
+      position:sticky;
+      top:78px;
+      z-index:90;
+    }
   }
   .search-row{ display:flex; gap:10px; margin-bottom:12px; }
   .search-box{ flex:1; position:relative; }

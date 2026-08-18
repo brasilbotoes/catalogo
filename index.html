@@ -53,9 +53,13 @@ body { font-family: 'Nunito Sans', sans-serif; background: var(--off); color: va
   background: #fff;
   border-bottom: 2px solid var(--borda);
   padding: 14px 32px;
-  position: sticky;
-  top: 68px;
-  z-index: 90;
+}
+@media (min-width: 769px) {
+  .filters-wrap {
+    position: sticky;
+    top: 68px;
+    z-index: 90;
+  }
 }
 .search-row { display: flex; gap: 10px; margin-bottom: 12px; }
 .search-box { flex: 1; position: relative; }
