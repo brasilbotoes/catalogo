@@ -1001,7 +1001,7 @@
     "acabamento": "BRILHO PERS",
     "material": "POLIESTER",
     "descricao": "PLAQUINHA POL 13474 3F TAM 30 COR C076 BRILHO PERS",
-    "qtd_saldo": 30,
+    "qtd_saldo": 0,
     "unidade": "GR",
     "cliente": "KYLY INDUSTRIA TEXTIL LTDA.",
     "foto": null
@@ -1134,7 +1134,7 @@
     "acabamento": "BRILHO PERS",
     "material": "POLIESTER",
     "descricao": "PINGENTE POL 13289 3F TAM 26 COR C076 BRILHO PERS",
-    "qtd_saldo": "38 + 22",
+    "qtd_saldo": "0 + 22",
     "unidade": "GR",
     "cliente": "KYLY INDUSTRIA TEXTIL LTDA.",
     "foto": null
