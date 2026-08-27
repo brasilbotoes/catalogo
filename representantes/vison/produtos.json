@@ -1001,7 +1001,7 @@
     "acabamento": "BRILHO PERS",
     "material": "POLIESTER",
     "descricao": "PLAQUINHA POL 13474 3F TAM 30 COR C076 BRILHO PERS",
-    "qtd_saldo": 0,
+    "qtd_saldo": 5,
     "unidade": "GR",
     "cliente": "KYLY INDUSTRIA TEXTIL LTDA.",
     "foto": null
@@ -1134,7 +1134,7 @@
     "acabamento": "BRILHO PERS",
     "material": "POLIESTER",
     "descricao": "PINGENTE POL 13289 3F TAM 26 COR C076 BRILHO PERS",
-    "qtd_saldo": "0 + 22",
+    "qtd_saldo": "13 + 22",
     "unidade": "GR",
     "cliente": "KYLY INDUSTRIA TEXTIL LTDA.",
     "foto": null
@@ -3414,7 +3414,7 @@
     "acabamento": "BRILHO PERS",
     "material": "POLIESTER",
     "descricao": "BOTAO POL 398 4F TAM 18 COR C149  BRILHO PERS ",
-    "qtd_saldo": 22,
+    "qtd_saldo": 30,
     "unidade": "GR",
     "cliente": "KAESSE - BANA BANA CONFECCOES LTDA",
     "foto": null
@@ -4022,7 +4022,7 @@
     "acabamento": "FOSCO PERS",
     "material": "POLIESTER",
     "descricao": "BOTAO POL 4373 4F TAM 18 COR C1381 FOSCO PERS TIN",
-    "qtd_saldo": 18,
+    "qtd_saldo": 48,
     "unidade": "GR",
     "cliente": "VESTE S.A.ESTILO",
     "foto": null
