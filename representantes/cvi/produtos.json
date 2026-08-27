@@ -302,24 +302,5 @@
     "unidade": "GR",
     "cliente": "IND DE MALHAS FINAS HIGHSTIL LT",
     "foto": null
-  },
-  {
-    "cod_red": "119230009",
-    "modelo": "11923",
-    "tamanho": "26",
-    "cor_codigo": "C1325",
-    "tingimento": null,
-    "personalizacao": "P2745 - HIGHSTIL",
-    "cor_nome": "SERRAGEM BEGE",
-    "cor_familia": null,
-    "cor_hex": null,
-    "furacao": "4F",
-    "acabamento": "FOSCO PERS",
-    "material": "POLIESTER",
-    "descricao": "BOTAO POL 11923 4F TAM 26 COR C1325 FOSCO PERS P2745 HIGHSTIL (Dt_Prev.: 03/05/24)",
-    "qtd_saldo": 8,
-    "unidade": "GR",
-    "cliente": "IND DE MALHAS FINAS HIGHSTIL LT",
-    "foto": null
   }
 ]
