@@ -24,6 +24,37 @@ ARQUIVO_JSON = BASE_DIR / "produtos.json"
 
 # ─── HELPERS ──────────────────────────────────────────────────────────────────
 
+FAMILIAS_PALAVRAS_CHAVE = {
+    "Branco":     ["branco"],
+    "Bege":       ["bege", "creme", "marfim", "areia"],
+    "Marrom":     ["marrom", "caramelo", "chocolate", "café", "cafe", "conhaque"],
+    "Preto":      ["preto"],
+    "Cinza":      ["cinza", "grafite", "chumbo"],
+    "Azul":       ["azul", "marinho", "royal", "turquesa"],
+    "Verde":      ["verde", "oliva", "militar"],
+    "Amarelo":    ["amarelo", "canário", "canario", "mostarda"],
+    "Vermelho":   ["vermelho", "vinho", "bordô", "bordo"],
+    "Rosa":       ["rosa", "pink", "fúcsia", "fucsia"],
+    "Laranja":    ["laranja"],
+    "Roxo":       ["roxo", "lilás", "lilas", "violeta"],
+    "Dourado":    ["dourado", "ouro"],
+    "Prata":      ["prata", "prateado", "metálico", "metalico"],
+    "Multicolor": ["multicolor", "mesclado", "mescla"],
+    "Natural":    ["natural"],
+}
+
+def inferir_familia_por_nome(nome):
+    """Tenta identificar a família a partir do texto do nome da cor (ex: DESC. COR da planilha de estoque)."""
+    nome_lower = str(nome or "").strip().lower()
+    if not nome_lower:
+        return None
+    for familia, palavras in FAMILIAS_PALAVRAS_CHAVE.items():
+        for palavra in palavras:
+            if palavra in nome_lower:
+                return familia
+    return None
+
+
 def normalizar_cor(codigo):
     """Normaliza código de cor: '0001'→'C001', 'C164'→'C164', '164'→'C164'"""
     codigo = str(codigo).strip()
@@ -243,16 +274,18 @@ def main():
         # Código de cor normalizado
         cor_codigo = normalizar_cor(cor_raw) if cor_raw else ""
 
-        # Nome da cor: DESC. COR da planilha tem prioridade, senão tabela
+        # Nome e família da cor: DESC. COR da planilha de estoque tem prioridade,
+        # tabela_cores_final.xlsx é usada apenas como reserva (fallback)
+        ref_tabela = tabela_cores.get(cor_codigo, {})
         if desc_cor:
             cor_nome = desc_cor
-            cor_familia = tabela_cores.get(cor_codigo, {}).get("familia", "")
-            cor_hex = tabela_cores.get(cor_codigo, {}).get("hex", "")
+            # 1º tenta inferir a família pelo texto do próprio DESC. COR (coerente com o estoque)
+            # 2º se não achar palavra-chave conhecida, usa a família da tabela de cores
+            cor_familia = inferir_familia_por_nome(desc_cor) or ref_tabela.get("familia", "")
         else:
-            ref_tabela = tabela_cores.get(cor_codigo, {})
             cor_nome = ref_tabela.get("nome", "")
             cor_familia = ref_tabela.get("familia", "")
-            cor_hex = ref_tabela.get("hex", "")
+        cor_hex = ref_tabela.get("hex", "")
 
         # Monta prefixo e busca imagens
         prefixo = montar_prefixo_imagem(modelo, cor_raw, ting)
