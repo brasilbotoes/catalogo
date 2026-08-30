@@ -167,6 +167,8 @@ body { font-family: 'Nunito Sans', sans-serif; background: var(--off); color: va
 .modal-saldo-label { font-size: 10px; font-weight: 900; text-transform: uppercase; letter-spacing: 0.1em; color: var(--azul-l); }
 .modal-saldo-num { font-size: 36px; font-weight: 900; color: var(--amarelo); line-height: 1; }
 .modal-saldo-unit { font-size: 12px; font-weight: 300; color: var(--cinza-l); }
+.modal-local { margin-top: 10px; font-size: 12px; font-weight: 700; color: var(--cinza); text-align: center; background: #f2f2f0; border-radius: 8px; padding: 8px 12px; }
+.card-local { margin-top: 4px; font-size: 10px; font-weight: 700; color: var(--cinza-l); text-align: right; }
 
 @media (max-width: 768px) {
   .header, .filters-wrap { padding-left: 16px; padding-right: 16px; }
@@ -276,6 +278,7 @@ body { font-family: 'Nunito Sans', sans-serif; background: var(--off); color: va
         </div>
         <div class="modal-saldo-unit" id="m-unit"></div>
       </div>
+      <div class="modal-local" id="m-local" style="display:none"></div>
     </div>
   </div>
 </div>
@@ -401,6 +404,7 @@ function criarCard(p) {
         <span class="saldo-label">Saldo</span>
         <span class="saldo-val">${p.saldo.toLocaleString('pt-BR')}&nbsp;<span class="saldo-unit">${p.unidade||'GS'}</span></span>
       </div>
+      ${p.localizacao?`<div class="card-local">${p.localizacao}</div>`:''}
     </div>`;
   setTimeout(()=>{
     const img=document.getElementById(`im-${p.reduzido}`);
@@ -424,6 +428,8 @@ function abrirModal(p) {
   document.getElementById('m-desc').textContent=p.descricao;
   document.getElementById('m-saldo').textContent=p.saldo.toLocaleString('pt-BR');
   document.getElementById('m-unit').textContent=p.unidade||'grosas';
+  const mLocal=document.getElementById('m-local');
+  if(p.localizacao){mLocal.textContent=p.localizacao;mLocal.style.display='block';}else{mLocal.style.display='none';}
   const campos=[['Código',p.reduzido],['Referência',p.referencia],['Cor (código)',p.cor_codigo],['Cor (nome)',p.cor_nome||'—'],['Família',p.cor_familia||'—'],['Tamanho',p.tamanho],['Furação',p.furacao],['Acabamento',p.acabamento],['Material',p.material||'—']];
   document.getElementById('m-fields').innerHTML=campos.map(([l,v])=>`<div class="modal-field"><div class="modal-field-label">${l}</div><div class="modal-field-val">${v}</div></div>`).join('');
   const gal=document.getElementById('m-gallery');

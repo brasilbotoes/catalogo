@@ -66,6 +66,25 @@ def normalizar_cor(codigo):
     except ValueError:
         return f"C{codigo}"
 
+def montar_localizacao(corredor, caixa):
+    """Monta o texto de localização: 'Corredor A / Caixa 001'"""
+    corredor = str(corredor or "").strip()
+    caixa = str(caixa or "").strip()
+    if not corredor and not caixa:
+        return ""
+    partes = []
+    if corredor:
+        partes.append(f"Corredor {corredor}")
+    if caixa:
+        # Se for número, formata com 3 dígitos (ex: 1 -> 001)
+        try:
+            caixa_fmt = f"{int(caixa):03d}"
+        except ValueError:
+            caixa_fmt = caixa
+        partes.append(f"Caixa {caixa_fmt}")
+    return " / ".join(partes)
+
+
 def montar_prefixo_imagem(modelo, cor_codigo, ting):
     """
     Monta o prefixo do nome do arquivo de imagem.
@@ -264,6 +283,8 @@ def main():
         saldo   = linha.get("QTD SALDO")
         um      = str(linha.get("UM", "") or "").strip()
         descr   = str(linha.get("DESCR.", "") or "").strip()
+        corredor= str(linha.get("CORR", "") or "").strip()
+        caixa   = str(linha.get("CX", "") or "").strip()
 
         # Quantidade
         try:
@@ -301,6 +322,9 @@ def main():
         # imagem_base: prefixo usado pelo index.html para carregar imagens
         imagem_base = prefixo_furacao  # ex: 17_C001_4F ou 17_C160+134_4F
 
+        # Localização física no acervo (Corredor / Caixa)
+        localizacao = montar_localizacao(corredor, caixa)
+
         produto = {
             "reduzido": cod_red,        # código reduzido
             "referencia": modelo,       # modelo = referência no catálogo
@@ -317,6 +341,7 @@ def main():
             "obs": obs,
             "saldo": qtd,
             "unidade": um,
+            "localizacao": localizacao,
             "imagem_base": imagem_base, # usado pelo index.html para carregar imagens
             "imagens": imagens,
             "tem_foto": tem_foto,

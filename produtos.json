@@ -15,6 +15,7 @@
     "obs": "",
     "saldo": 51.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2944_4F",
     "imagens": [],
     "tem_foto": false
@@ -35,6 +36,7 @@
     "obs": "",
     "saldo": 35.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2914_4F",
     "imagens": [],
     "tem_foto": false
@@ -55,6 +57,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2943_4F",
     "imagens": [],
     "tem_foto": false
@@ -75,6 +78,7 @@
     "obs": "",
     "saldo": 156.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13646_C2914_4F",
     "imagens": [],
     "tem_foto": false
@@ -95,6 +99,7 @@
     "obs": "",
     "saldo": 16.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2923_4F",
     "imagens": [],
     "tem_foto": false
@@ -115,6 +120,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 002",
     "imagem_base": "13649_C2927_4F",
     "imagens": [],
     "tem_foto": false
@@ -135,6 +141,7 @@
     "obs": "",
     "saldo": 14.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 002",
     "imagem_base": "13649_C2943_4F",
     "imagens": [],
     "tem_foto": false
@@ -155,6 +162,7 @@
     "obs": "",
     "saldo": 47.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 002",
     "imagem_base": "13646_C2922_4F",
     "imagens": [],
     "tem_foto": false
@@ -175,6 +183,7 @@
     "obs": "",
     "saldo": 32.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 002",
     "imagem_base": "13649_C2922_4F",
     "imagens": [],
     "tem_foto": false
@@ -195,6 +204,7 @@
     "obs": "",
     "saldo": 79.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 002",
     "imagem_base": "13649_C2928_4F",
     "imagens": [],
     "tem_foto": false
@@ -215,6 +225,7 @@
     "obs": "",
     "saldo": 82.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 002",
     "imagem_base": "13646_C2928_4F",
     "imagens": [],
     "tem_foto": false
@@ -235,6 +246,7 @@
     "obs": "",
     "saldo": 43.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 002",
     "imagem_base": "13646_C2914_4F",
     "imagens": [],
     "tem_foto": false
@@ -255,6 +267,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2922_4F",
     "imagens": [],
     "tem_foto": false
@@ -275,6 +288,7 @@
     "obs": "",
     "saldo": 25.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2943_4F",
     "imagens": [],
     "tem_foto": false
@@ -295,6 +309,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13646_C2928_2F",
     "imagens": [],
     "tem_foto": false
@@ -315,6 +330,7 @@
     "obs": "",
     "saldo": 24.0,
     "unidade": "PÇ",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13646_C2943_4F",
     "imagens": [],
     "tem_foto": false
@@ -335,6 +351,7 @@
     "obs": "",
     "saldo": 21.0,
     "unidade": "PÇ",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2927_4F",
     "imagens": [],
     "tem_foto": false
@@ -355,6 +372,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13647_C2926_4F",
     "imagens": [],
     "tem_foto": false
@@ -375,6 +393,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13646_C2922_4F",
     "imagens": [],
     "tem_foto": false
@@ -395,6 +414,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2914_4F",
     "imagens": [],
     "tem_foto": false
@@ -415,6 +435,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2914_4F",
     "imagens": [],
     "tem_foto": false
@@ -435,6 +456,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2928_4F",
     "imagens": [],
     "tem_foto": false
@@ -455,6 +477,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13659_C2944_4F",
     "imagens": [],
     "tem_foto": false
@@ -475,6 +498,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2928_4F",
     "imagens": [],
     "tem_foto": false
@@ -495,6 +519,7 @@
     "obs": "",
     "saldo": 0.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13659_C2944_4F",
     "imagens": [],
     "tem_foto": false
@@ -515,6 +540,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2928_4F",
     "imagens": [],
     "tem_foto": false
@@ -535,6 +561,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2922_4F",
     "imagens": [],
     "tem_foto": false
@@ -555,6 +582,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13659_C2944_4F",
     "imagens": [],
     "tem_foto": false
@@ -575,6 +603,7 @@
     "obs": "",
     "saldo": 42.0,
     "unidade": "",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "13647_C2925_4F",
     "imagens": [],
     "tem_foto": false
@@ -595,6 +624,7 @@
     "obs": "PLAQUINHA",
     "saldo": 9.0,
     "unidade": "",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "13771_C2927_2F",
     "imagens": [],
     "tem_foto": false
@@ -615,6 +645,7 @@
     "obs": "PLAQUINHA",
     "saldo": 13.0,
     "unidade": "",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "13771_C2926_2F",
     "imagens": [],
     "tem_foto": false
@@ -635,6 +666,7 @@
     "obs": "",
     "saldo": 55.0,
     "unidade": "",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "13646_C2923_4F",
     "imagens": [],
     "tem_foto": false
@@ -655,6 +687,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "13647_C2927_4F",
     "imagens": [],
     "tem_foto": false
@@ -675,6 +708,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "13649_C2923_4F",
     "imagens": [],
     "tem_foto": false
@@ -695,6 +729,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "13647_C2923_4F",
     "imagens": [],
     "tem_foto": false
@@ -715,6 +750,7 @@
     "obs": "",
     "saldo": 46.0,
     "unidade": "",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "13660_C2926_4F",
     "imagens": [
       "13660_C2926_4F.png"
@@ -737,6 +773,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "13647_C2926_4F",
     "imagens": [],
     "tem_foto": false
@@ -757,6 +794,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "13649_C2927_4F",
     "imagens": [],
     "tem_foto": false
@@ -777,6 +815,7 @@
     "obs": "",
     "saldo": 47.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "10180_C011_4F",
     "imagens": [],
     "tem_foto": false
@@ -797,6 +836,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "10180_C011_4F",
     "imagens": [],
     "tem_foto": false
@@ -817,6 +857,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "10180_C011_4F",
     "imagens": [],
     "tem_foto": false
@@ -837,6 +878,7 @@
     "obs": "",
     "saldo": 28.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "10180_C229_4F",
     "imagens": [],
     "tem_foto": false
@@ -857,6 +899,7 @@
     "obs": "",
     "saldo": 14.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "10180_C229_4F",
     "imagens": [],
     "tem_foto": false
@@ -877,6 +920,7 @@
     "obs": "",
     "saldo": 16.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "10180_C011_4F",
     "imagens": [],
     "tem_foto": false
@@ -897,6 +941,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "13643_C2929+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -917,6 +962,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "1651_C2521_1F",
     "imagens": [
       "1651_C2521_1F.png"
@@ -939,6 +985,7 @@
     "obs": "",
     "saldo": 36.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "10218_C100+TING_2F",
     "imagens": [],
     "tem_foto": false
@@ -959,6 +1006,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 009",
     "imagem_base": "10187_C164_4",
     "imagens": [],
     "tem_foto": false
@@ -979,6 +1027,7 @@
     "obs": "IAEL",
     "saldo": 1.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "11888_C060_4F",
     "imagens": [
       "11888_C060_4F.png",
@@ -1003,6 +1052,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "1708_C300+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -1023,6 +1073,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "10435_C521_4",
     "imagens": [],
     "tem_foto": false
@@ -1043,6 +1094,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "12481_C1325_2F",
     "imagens": [
       "12481_C1325_2F.png",
@@ -1067,6 +1119,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "12107_C920_4F",
     "imagens": [
       "12107_C920_4F.png",
@@ -1091,6 +1144,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "10250_C934_2F",
     "imagens": [
       "10250_C934_2F.png",
@@ -1115,6 +1169,7 @@
     "obs": "PARA CORES",
     "saldo": 6.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "12110_C1757_4F",
     "imagens": [
       "12110_C1757_4F.png",
@@ -1139,6 +1194,7 @@
     "obs": "PARA CORES",
     "saldo": 4.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "12107_C1757_4F",
     "imagens": [
       "12107_C1757_4F.png",
@@ -1163,6 +1219,7 @@
     "obs": "PARA CORES",
     "saldo": 7.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "10223_C001_PE",
     "imagens": [],
     "tem_foto": false
@@ -1183,6 +1240,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "297_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -1203,6 +1261,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "12110_C920_4F",
     "imagens": [
       "12110_C920_4F.png",
@@ -1227,6 +1286,7 @@
     "obs": "PARA CORES",
     "saldo": 7.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "12104_C076_4F",
     "imagens": [
       "12104_C076_4F.png",
@@ -1251,6 +1311,7 @@
     "obs": "PARA CORES",
     "saldo": 3.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "665_C001_4",
     "imagens": [],
     "tem_foto": false
@@ -1271,6 +1332,7 @@
     "obs": "",
     "saldo": 11.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "12106_C920_4F",
     "imagens": [],
     "tem_foto": false
@@ -1291,6 +1353,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 003",
     "imagem_base": "192_C001_4",
     "imagens": [],
     "tem_foto": false
@@ -1311,6 +1374,7 @@
     "obs": "PARA CORES",
     "saldo": 37.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 009",
     "imagem_base": "10139_C001_2",
     "imagens": [],
     "tem_foto": false
@@ -1331,6 +1395,7 @@
     "obs": "",
     "saldo": 0.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 004",
     "imagem_base": "10139_C1000_2F",
     "imagens": [
       "10139_C1000_2F.png",
@@ -1354,6 +1419,7 @@
     "obs": "PARA CORES",
     "saldo": 37.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 009",
     "imagem_base": "10139_C001_2",
     "imagens": [],
     "tem_foto": false
@@ -1374,6 +1440,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 004",
     "imagem_base": "10709_C2879_2F",
     "imagens": [],
     "tem_foto": false
@@ -1394,6 +1461,7 @@
     "obs": "PARA CORES",
     "saldo": 102.0,
     "unidade": "",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "398_C149+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -1414,6 +1482,7 @@
     "obs": "",
     "saldo": 26.0,
     "unidade": "",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "_C000",
     "imagens": [],
     "tem_foto": false
@@ -1434,6 +1503,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 004",
     "imagem_base": "10709_C1350_2F",
     "imagens": [],
     "tem_foto": false
@@ -1454,6 +1524,7 @@
     "obs": "PARA CORES",
     "saldo": 38.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 009",
     "imagem_base": "10139_C001_2",
     "imagens": [],
     "tem_foto": false
@@ -1474,6 +1545,7 @@
     "obs": "",
     "saldo": 150.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 004",
     "imagem_base": "555_C1732_4F",
     "imagens": [],
     "tem_foto": false
@@ -1494,6 +1566,7 @@
     "obs": "VERIFICAR ARTE",
     "saldo": 9.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 009",
     "imagem_base": "10736_C1325_4",
     "imagens": [],
     "tem_foto": false
@@ -1514,6 +1587,7 @@
     "obs": "",
     "saldo": 14.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 009",
     "imagem_base": "10363_C185_4",
     "imagens": [],
     "tem_foto": false
@@ -1534,6 +1608,7 @@
     "obs": "",
     "saldo": 14.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 004",
     "imagem_base": "10254_C132_2F",
     "imagens": [],
     "tem_foto": false
@@ -1554,6 +1629,7 @@
     "obs": "",
     "saldo": 13.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 004",
     "imagem_base": "10177_C060_2F",
     "imagens": [],
     "tem_foto": false
@@ -1574,6 +1650,7 @@
     "obs": "FORMATO ORGANICO",
     "saldo": 769.0,
     "unidade": "PÇ",
+    "localizacao": "Corredor A / Caixa 004",
     "imagem_base": "4897_C086_4F",
     "imagens": [
       "4897_C086_4F.png",
@@ -1598,6 +1675,7 @@
     "obs": "",
     "saldo": 11.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 004",
     "imagem_base": "10188_C003_4F",
     "imagens": [],
     "tem_foto": false
@@ -1618,6 +1696,7 @@
     "obs": "PARA CORES",
     "saldo": 2086.0,
     "unidade": "PÇ",
+    "localizacao": "Corredor A / Caixa 004",
     "imagem_base": "4897_C086_2F",
     "imagens": [],
     "tem_foto": false
@@ -1638,6 +1717,7 @@
     "obs": "AMARELADO",
     "saldo": 34.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 004",
     "imagem_base": "10400_C100_4F",
     "imagens": [
       "10400_C100_4F.png",
@@ -1662,6 +1742,7 @@
     "obs": "AMARELADO",
     "saldo": 11.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 004",
     "imagem_base": "1123_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -1682,6 +1763,7 @@
     "obs": "",
     "saldo": 161.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "726_C1730_4F",
     "imagens": [],
     "tem_foto": false
@@ -1702,6 +1784,7 @@
     "obs": "",
     "saldo": 300.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "555_C1732_4F",
     "imagens": [],
     "tem_foto": false
@@ -1722,6 +1805,7 @@
     "obs": "FORMATO ORGANICO",
     "saldo": 472.0,
     "unidade": "PÇ",
+    "localizacao": "Corredor A / Caixa 004",
     "imagem_base": "4897_C086+TING_2F",
     "imagens": [],
     "tem_foto": false
@@ -1742,6 +1826,7 @@
     "obs": "AMARELADO",
     "saldo": 7.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "10208_C258_2F",
     "imagens": [
       "10208_C258_2F.png",
@@ -1766,6 +1851,7 @@
     "obs": "AMARELADO",
     "saldo": 61.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "1374_C101_4F",
     "imagens": [],
     "tem_foto": false
@@ -1786,6 +1872,7 @@
     "obs": "AMARELADO",
     "saldo": 77.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "10718_C108_4F",
     "imagens": [],
     "tem_foto": false
@@ -1806,6 +1893,7 @@
     "obs": "AMARELADO",
     "saldo": 4.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "323_C076_4F",
     "imagens": [],
     "tem_foto": false
@@ -1826,6 +1914,7 @@
     "obs": "TARTARUGA",
     "saldo": 54.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "1696_C003_4F",
     "imagens": [],
     "tem_foto": false
@@ -1846,6 +1935,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "398_C149+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -1866,6 +1956,7 @@
     "obs": "",
     "saldo": 42.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "10353_C258_2F",
     "imagens": [],
     "tem_foto": false
@@ -1886,6 +1977,7 @@
     "obs": "AMARELADO",
     "saldo": 141.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "10213_C100_4F",
     "imagens": [],
     "tem_foto": false
@@ -1906,6 +1998,7 @@
     "obs": "PARA PRETO",
     "saldo": 7.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "1374_C101+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -1926,6 +2019,7 @@
     "obs": "AMARELADO",
     "saldo": 27.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "1174_C076_2F",
     "imagens": [],
     "tem_foto": false
@@ -1946,6 +2040,7 @@
     "obs": "FUME",
     "saldo": 7.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "10136_C1000+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -1966,6 +2061,7 @@
     "obs": "CASCA DE COCO",
     "saldo": 3.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "10315_C521_4F",
     "imagens": [],
     "tem_foto": false
@@ -1986,6 +2082,7 @@
     "obs": "AMARELADO",
     "saldo": 10.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "438_C100_2F",
     "imagens": [],
     "tem_foto": false
@@ -2006,6 +2103,7 @@
     "obs": "AMARELADO",
     "saldo": 3.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "10139_C001_2F",
     "imagens": [],
     "tem_foto": false
@@ -2026,6 +2124,7 @@
     "obs": "PERS",
     "saldo": 13.0,
     "unidade": "GRS",
+    "localizacao": "Corredor B / Caixa 001",
     "imagem_base": "1539_C579_4F",
     "imagens": [],
     "tem_foto": false
@@ -2046,6 +2145,7 @@
     "obs": "AMARELADO",
     "saldo": 6.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "90005_C1000_2F",
     "imagens": [],
     "tem_foto": false
@@ -2066,6 +2166,7 @@
     "obs": "TARTARUGA",
     "saldo": 6.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "10245_C003_4F",
     "imagens": [],
     "tem_foto": false
@@ -2086,6 +2187,7 @@
     "obs": "FUME",
     "saldo": 6.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "10348_C1000+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -2106,6 +2208,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "10684_C1237_2F",
     "imagens": [],
     "tem_foto": false
@@ -2126,6 +2229,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 005",
     "imagem_base": "11024_C1595_4F",
     "imagens": [],
     "tem_foto": false
@@ -2146,6 +2250,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "10969_C274_4F",
     "imagens": [],
     "tem_foto": false
@@ -2166,6 +2271,7 @@
     "obs": "INCO 164884",
     "saldo": 6.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "10129_C802_4F",
     "imagens": [],
     "tem_foto": false
@@ -2186,6 +2292,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "10116_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -2206,6 +2313,7 @@
     "obs": "",
     "saldo": 25.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "10116_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -2226,6 +2334,7 @@
     "obs": "INCO 183662",
     "saldo": 10.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "438_C1000_2F",
     "imagens": [],
     "tem_foto": false
@@ -2246,6 +2355,7 @@
     "obs": "IMIT. COCO",
     "saldo": 0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "10191_C120_4F",
     "imagens": [
       "10191_C120_4F.png",
@@ -2270,6 +2380,7 @@
     "obs": "AMARELADO",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "651_C001_4F",
     "imagens": [
       "651_C001_4F.png",
@@ -2293,6 +2404,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "10230_C076_4F",
     "imagens": [],
     "tem_foto": false
@@ -2313,6 +2425,7 @@
     "obs": "AMARELADO",
     "saldo": 9.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "514_C001_4F",
     "imagens": [
       "514_C001_4F.png",
@@ -2337,6 +2450,7 @@
     "obs": "AMARELADO",
     "saldo": 9.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "10218_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -2357,6 +2471,7 @@
     "obs": "AMARELADO",
     "saldo": 15.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "210_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -2377,6 +2492,7 @@
     "obs": "GLITTER",
     "saldo": 8.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "1189_C006_4F",
     "imagens": [],
     "tem_foto": false
@@ -2397,6 +2513,7 @@
     "obs": "AMARELADO",
     "saldo": 4.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "438_C1000_2F",
     "imagens": [],
     "tem_foto": false
@@ -2417,6 +2534,7 @@
     "obs": "BARQINHO",
     "saldo": 7.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "4089_C879_2F",
     "imagens": [],
     "tem_foto": false
@@ -2437,6 +2555,7 @@
     "obs": "CARRINHO",
     "saldo": 5.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "4090_C879_2F",
     "imagens": [],
     "tem_foto": false
@@ -2457,6 +2576,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "10177_C060_4F",
     "imagens": [
       "10177_C060_4F.png",
@@ -2480,6 +2600,7 @@
     "obs": "AMARELADO",
     "saldo": 7.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "10135_C1000_4F",
     "imagens": [
       "10135_C1000_4F.png",
@@ -2503,6 +2624,7 @@
     "obs": "PRETO",
     "saldo": 5.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "6025_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -2523,6 +2645,7 @@
     "obs": "CASCA DE COCO",
     "saldo": 2.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "10433_C521_4F",
     "imagens": [],
     "tem_foto": false
@@ -2543,6 +2666,7 @@
     "obs": "CORAÇÃO AMARELADO",
     "saldo": 2211.0,
     "unidade": "PÇ",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "11509_C001_2F",
     "imagens": [],
     "tem_foto": false
@@ -2563,6 +2687,7 @@
     "obs": "AMARELADO",
     "saldo": 241.0,
     "unidade": "PÇ",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "153_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -2583,6 +2708,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "354_C001_2F",
     "imagens": [],
     "tem_foto": false
@@ -2603,6 +2729,7 @@
     "obs": "AMARELADO",
     "saldo": 3.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "665_C001_4F",
     "imagens": [
       "665_C001_4F.png",
@@ -2627,6 +2754,7 @@
     "obs": "AMARELADO",
     "saldo": 26.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "10135_C1000_2F",
     "imagens": [
       "10135_C1000_2F.png",
@@ -2650,6 +2778,7 @@
     "obs": "",
     "saldo": 15.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "10254_C132_4F",
     "imagens": [
       "10254_C132_4F.png",
@@ -2673,6 +2802,7 @@
     "obs": "AMARELADO",
     "saldo": 12.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 006",
     "imagem_base": "17_C001_4F",
     "imagens": [
       "17_C001_4F.png",
@@ -2697,6 +2827,7 @@
     "obs": "AMARELADO",
     "saldo": 15.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 007",
     "imagem_base": "10208_C258_2F",
     "imagens": [
       "10208_C258_2F.png",
@@ -2721,6 +2852,7 @@
     "obs": "1 PC COM 15GRS E 1 PC COM 21 GRS",
     "saldo": 36.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 007",
     "imagem_base": "10139_C001_2F",
     "imagens": [],
     "tem_foto": false
@@ -2741,6 +2873,7 @@
     "obs": "AMARELADO",
     "saldo": 6.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 007",
     "imagem_base": "1493_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -2761,6 +2894,7 @@
     "obs": "AMARELADO",
     "saldo": 13.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 007",
     "imagem_base": "244_C307_4F",
     "imagens": [
       "244_C307_4F.png",
@@ -2785,6 +2919,7 @@
     "obs": "",
     "saldo": 227.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 008",
     "imagem_base": "13094_C1791_4F",
     "imagens": [
       "13094_C1791_4F.png",
@@ -2809,6 +2944,7 @@
     "obs": "AMARELADO",
     "saldo": 5.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 007",
     "imagem_base": "13094_C535_4F",
     "imagens": [],
     "tem_foto": false
@@ -2829,6 +2965,7 @@
     "obs": "",
     "saldo": 81.0,
     "unidade": "GRS",
+    "localizacao": "Corredor A / Caixa 010",
     "imagem_base": "1720_C054_4F",
     "imagens": [],
     "tem_foto": false
@@ -2849,6 +2986,7 @@
     "obs": "AMARELADO",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "10245_C100_2F",
     "imagens": [],
     "tem_foto": false
@@ -2869,6 +3007,7 @@
     "obs": "PARA TINGIR",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "821_C583_PE",
     "imagens": [],
     "tem_foto": false
@@ -2889,6 +3028,7 @@
     "obs": "PRETO",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "255_C1000+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -2909,6 +3049,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "11924_C1325_4F",
     "imagens": [],
     "tem_foto": false
@@ -2929,6 +3070,7 @@
     "obs": "AMARELADO",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "758_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -2949,6 +3091,7 @@
     "obs": "C1000+027",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "6004_C1000+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -2969,6 +3112,7 @@
     "obs": "TING 551",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "10190_C145+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -2989,6 +3133,7 @@
     "obs": "PRETO",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "514_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -3009,6 +3154,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "_C000",
     "imagens": [],
     "tem_foto": false
@@ -3029,6 +3175,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "10146_C946_4F",
     "imagens": [],
     "tem_foto": false
@@ -3049,6 +3196,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "10190_C145_4F",
     "imagens": [
       "10190_C145_4F.jpg",
@@ -3073,6 +3221,7 @@
     "obs": "AMARELADO",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "10720_C100_1F",
     "imagens": [],
     "tem_foto": false
@@ -3093,6 +3242,7 @@
     "obs": "AMARELADO",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "2615_C001_2F",
     "imagens": [],
     "tem_foto": false
@@ -3113,6 +3263,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "10073_C328+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -3133,6 +3284,7 @@
     "obs": "",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "10254_C132_4F",
     "imagens": [
       "10254_C132_4F.png",
@@ -3156,6 +3308,7 @@
     "obs": "",
     "saldo": 21.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "10177_C060_2F",
     "imagens": [],
     "tem_foto": false
@@ -3176,6 +3329,7 @@
     "obs": "",
     "saldo": 29.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "10191_C004_4F",
     "imagens": [],
     "tem_foto": false
@@ -3196,6 +3350,7 @@
     "obs": "",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "438_C1000_2F",
     "imagens": [],
     "tem_foto": false
@@ -3216,6 +3371,7 @@
     "obs": "",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "284_C011_4F",
     "imagens": [],
     "tem_foto": false
@@ -3236,6 +3392,7 @@
     "obs": "AMARELADO",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "390_C143_4F",
     "imagens": [],
     "tem_foto": false
@@ -3256,6 +3413,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "10146_C946_4F",
     "imagens": [],
     "tem_foto": false
@@ -3276,6 +3434,7 @@
     "obs": "",
     "saldo": 35.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "10188_C003_4F",
     "imagens": [],
     "tem_foto": false
@@ -3296,6 +3455,7 @@
     "obs": "C127+1055",
     "saldo": 25.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 014",
     "imagem_base": "10193_C127_2F",
     "imagens": [],
     "tem_foto": false
@@ -3316,6 +3476,7 @@
     "obs": "",
     "saldo": 26.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "665_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -3336,6 +3497,7 @@
     "obs": "AMARELADO",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "_C000",
     "imagens": [],
     "tem_foto": false
@@ -3356,6 +3518,7 @@
     "obs": "AMARELADO",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "665_C001_4F",
     "imagens": [
       "665_C001_4F.png",
@@ -3380,6 +3543,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "11123_C1015_4F",
     "imagens": [],
     "tem_foto": false
@@ -3400,6 +3564,7 @@
     "obs": "AMARELADO",
     "saldo": 22.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "1421_C001_4F",
     "imagens": [
       "1421_C001_4F.jpg"
@@ -3422,6 +3587,7 @@
     "obs": "AMARELADO",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "10132_C001_4F",
     "imagens": [
       "10132_C001_4F.png",
@@ -3446,6 +3612,7 @@
     "obs": "AMARELADO",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "1260_C100_2F",
     "imagens": [],
     "tem_foto": false
@@ -3466,6 +3633,7 @@
     "obs": "AMARELADO",
     "saldo": 16.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "1575_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -3486,6 +3654,7 @@
     "obs": "AMARELADO",
     "saldo": 26.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "10135_C1000_4F",
     "imagens": [
       "10135_C1000_4F.png",
@@ -3509,6 +3678,7 @@
     "obs": "",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "1720_C054_4F",
     "imagens": [],
     "tem_foto": false
@@ -3529,6 +3699,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "10188_C022_4F",
     "imagens": [],
     "tem_foto": false
@@ -3549,6 +3720,7 @@
     "obs": "AMARELADO",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "506_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -3569,6 +3741,7 @@
     "obs": "AMARELADO",
     "saldo": 26.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "398_C149_4F",
     "imagens": [],
     "tem_foto": false
@@ -3589,6 +3762,7 @@
     "obs": "AMARELADO",
     "saldo": 25.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "390_C143_4F",
     "imagens": [],
     "tem_foto": false
@@ -3609,6 +3783,7 @@
     "obs": "AMARELADO",
     "saldo": 38.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 015",
     "imagem_base": "354_C001_4F",
     "imagens": [
       "354_C001_4F.png",
@@ -3633,6 +3808,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "10223_C229_1F",
     "imagens": [
       "10223_C229_1F.jpg"
@@ -3655,6 +3831,7 @@
     "obs": "",
     "saldo": 32.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "10392_C136_4F",
     "imagens": [],
     "tem_foto": false
@@ -3675,6 +3852,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "10142_C1669_4F",
     "imagens": [],
     "tem_foto": false
@@ -3695,6 +3873,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "10144_C193_4F",
     "imagens": [],
     "tem_foto": false
@@ -3715,6 +3894,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "10192_C094_4F",
     "imagens": [],
     "tem_foto": false
@@ -3735,6 +3915,7 @@
     "obs": "",
     "saldo": 16.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "10448_C370_4F",
     "imagens": [],
     "tem_foto": false
@@ -3755,6 +3936,7 @@
     "obs": "AMARELADO",
     "saldo": 39.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "13703_C100_2F",
     "imagens": [],
     "tem_foto": false
@@ -3775,6 +3957,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "10204_C174_4F",
     "imagens": [
       "10204_C174_4F.jpg"
@@ -3797,6 +3980,7 @@
     "obs": "1 PC COM 7GR E 1 PC COM 2GR",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "11241_C060_2F",
     "imagens": [],
     "tem_foto": false
@@ -3817,6 +4001,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "10684_C461_2F",
     "imagens": [],
     "tem_foto": false
@@ -3837,6 +4022,7 @@
     "obs": "",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "11925_C1325_2F",
     "imagens": [],
     "tem_foto": false
@@ -3857,6 +4043,7 @@
     "obs": "",
     "saldo": 28.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "12110_C920_4F",
     "imagens": [
       "12110_C920_4F.png",
@@ -3881,6 +4068,7 @@
     "obs": "",
     "saldo": 42.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "323_C076_4F",
     "imagens": [],
     "tem_foto": false
@@ -3901,6 +4089,7 @@
     "obs": "",
     "saldo": 19.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "11059_C935+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -3921,6 +4110,7 @@
     "obs": "",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "12211_C1837+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -3941,6 +4131,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "1792_C106+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -3961,6 +4152,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "11191_C1042_4F",
     "imagens": [
       "11191_C1042_4F.jpg"
@@ -3983,6 +4175,7 @@
     "obs": "AMARELADO",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "10138_C100_4F",
     "imagens": [],
     "tem_foto": false
@@ -4003,6 +4196,7 @@
     "obs": "",
     "saldo": 16.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "250_C193_2F",
     "imagens": [],
     "tem_foto": false
@@ -4023,6 +4217,7 @@
     "obs": "AMARELADO",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "10223_C001_1F",
     "imagens": [],
     "tem_foto": false
@@ -4043,6 +4238,7 @@
     "obs": "TING C001+KGV",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "11375_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -4063,6 +4259,7 @@
     "obs": "TING C245+VERDE AGUA BRASIL",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "490_C245+TING_2F",
     "imagens": [],
     "tem_foto": false
@@ -4083,6 +4280,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "250_C024_2F",
     "imagens": [],
     "tem_foto": false
@@ -4103,6 +4301,7 @@
     "obs": "PRETO",
     "saldo": 60.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "_C000",
     "imagens": [],
     "tem_foto": false
@@ -4123,6 +4322,7 @@
     "obs": "",
     "saldo": 24.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "1696_C003_4F",
     "imagens": [],
     "tem_foto": false
@@ -4143,6 +4343,7 @@
     "obs": "AMARELADO",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "654_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -4163,6 +4364,7 @@
     "obs": "",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "1731_C107_4F",
     "imagens": [],
     "tem_foto": false
@@ -4183,6 +4385,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "10196_C167_4F",
     "imagens": [],
     "tem_foto": false
@@ -4203,6 +4406,7 @@
     "obs": "TING PRETO",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "354_C1042+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -4223,6 +4427,7 @@
     "obs": "AMARELADO",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "10214_C159_4F",
     "imagens": [],
     "tem_foto": false
@@ -4243,6 +4448,7 @@
     "obs": "",
     "saldo": 21.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "12337_C1857_2F",
     "imagens": [],
     "tem_foto": false
@@ -4263,6 +4469,7 @@
     "obs": "",
     "saldo": 19.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "12554_C2022_4F",
     "imagens": [],
     "tem_foto": false
@@ -4283,6 +4490,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "10184_C164_2F",
     "imagens": [],
     "tem_foto": false
@@ -4303,6 +4511,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "10186_C164_4F",
     "imagens": [
       "10186_C164_4F.jpg"
@@ -4325,6 +4534,7 @@
     "obs": "AMARELADO",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "1220_C420_4F",
     "imagens": [],
     "tem_foto": false
@@ -4345,6 +4555,7 @@
     "obs": "AMARELADO",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "490_C245_2F",
     "imagens": [],
     "tem_foto": false
@@ -4365,6 +4576,7 @@
     "obs": "",
     "saldo": 16.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "10189_C163_4F",
     "imagens": [
       "10189_C163_4F.png",
@@ -4389,6 +4601,7 @@
     "obs": "",
     "saldo": 46.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "1661_C002_4F",
     "imagens": [],
     "tem_foto": false
@@ -4409,6 +4622,7 @@
     "obs": "",
     "saldo": 36.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "1805_C321_4F",
     "imagens": [],
     "tem_foto": false
@@ -4429,6 +4643,7 @@
     "obs": "",
     "saldo": 79.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "10683_C920_2F",
     "imagens": [],
     "tem_foto": false
@@ -4449,6 +4664,7 @@
     "obs": "",
     "saldo": 36.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 017",
     "imagem_base": "1581_C267+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -4469,6 +4685,7 @@
     "obs": "",
     "saldo": 26.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10648_C494_4F",
     "imagens": [],
     "tem_foto": false
@@ -4489,6 +4706,7 @@
     "obs": "",
     "saldo": 42.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "1495_C973_4F",
     "imagens": [],
     "tem_foto": false
@@ -4509,6 +4727,7 @@
     "obs": "",
     "saldo": 29.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10227_C076_4F",
     "imagens": [],
     "tem_foto": false
@@ -4529,6 +4748,7 @@
     "obs": "",
     "saldo": 27.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "1300_C165_4F",
     "imagens": [],
     "tem_foto": false
@@ -4549,6 +4769,7 @@
     "obs": "",
     "saldo": 45.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10648_C494_4F",
     "imagens": [],
     "tem_foto": false
@@ -4569,6 +4790,7 @@
     "obs": "",
     "saldo": 43.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10890_C776_4F",
     "imagens": [],
     "tem_foto": false
@@ -4589,6 +4811,7 @@
     "obs": "",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10180_C928_4F",
     "imagens": [],
     "tem_foto": false
@@ -4609,6 +4832,7 @@
     "obs": "",
     "saldo": 6.951,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10199_C517_4F",
     "imagens": [
       "10199_C517_4F.png",
@@ -4633,6 +4857,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10178_C080_4F",
     "imagens": [],
     "tem_foto": false
@@ -4653,6 +4878,7 @@
     "obs": "TING 413",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10178_C080+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -4673,6 +4899,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10520_C700_4F",
     "imagens": [
       "10520_C700_4F.png",
@@ -4697,6 +4924,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10199_C110_4F",
     "imagens": [],
     "tem_foto": false
@@ -4717,6 +4945,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10199_C154_4F",
     "imagens": [
       "10199_C154_4F.png",
@@ -4741,6 +4970,7 @@
     "obs": "",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10804_C494_4F",
     "imagens": [
       "10804_C494_4F.png",
@@ -4765,6 +4995,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "514_C001_4F",
     "imagens": [
       "514_C001_4F.png",
@@ -4789,6 +5020,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10508_C1106_1F",
     "imagens": [
       "10508_C1106_1F.png",
@@ -4812,6 +5044,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "184_C685_4F",
     "imagens": [],
     "tem_foto": false
@@ -4832,6 +5065,7 @@
     "obs": "TING 5-VERMELHO",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "10140_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -4852,6 +5086,7 @@
     "obs": "AMARELADO",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 018",
     "imagem_base": "12103_C1757_4F",
     "imagens": [
       "12103_C1757_4F.png",
@@ -4876,6 +5111,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "10439_C064_4F",
     "imagens": [],
     "tem_foto": false
@@ -4896,6 +5132,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "495_C661_4F",
     "imagens": [
       "495_C661_4F.png",
@@ -4920,6 +5157,7 @@
     "obs": "C001+380",
     "saldo": 0.4375,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "514_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -4940,6 +5178,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "184_C673_4F",
     "imagens": [
       "184_C673_4F.jpg",
@@ -4965,6 +5204,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "184_C672_4F",
     "imagens": [
       "184_C672_4F.jpg"
@@ -4987,6 +5227,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "10428_C005_4F",
     "imagens": [],
     "tem_foto": false
@@ -5007,6 +5248,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "184_C674_4F",
     "imagens": [
       "184_C674_4F.jpg"
@@ -5029,6 +5271,7 @@
     "obs": "TING PRETO",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "663_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -5049,6 +5292,7 @@
     "obs": "",
     "saldo": 0.9513888888888888,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "1253_C002_4F",
     "imagens": [],
     "tem_foto": false
@@ -5069,6 +5313,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "2364_C1206_2F",
     "imagens": [
       "2364_C1206_2F.png",
@@ -5093,6 +5338,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "244_C307_4F",
     "imagens": [
       "244_C307_4F.png",
@@ -5117,6 +5363,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "1144_C1442_4F",
     "imagens": [
       "1144_C1442_4F.png",
@@ -5141,6 +5388,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "10614_C468_4F",
     "imagens": [
       "10614_C468_4F.jpg"
@@ -5163,6 +5411,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "23_C655_2F",
     "imagens": [
       "23_C655_2F.png",
@@ -5187,6 +5436,7 @@
     "obs": "AMARELADO",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "210_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -5207,6 +5457,7 @@
     "obs": "TING PRETO",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "527_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -5227,6 +5478,7 @@
     "obs": "AMARELADO",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "11084_C001_1F",
     "imagens": [],
     "tem_foto": false
@@ -5247,6 +5499,7 @@
     "obs": "VERMELHO FORA DO TOM",
     "saldo": 13.0,
     "unidade": "R",
+    "localizacao": "Corredor A / Caixa 019",
     "imagem_base": "184_C669_4F",
     "imagens": [],
     "tem_foto": false
@@ -5267,6 +5520,7 @@
     "obs": "",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 016",
     "imagem_base": "551_C120_2F",
     "imagens": [
       "551_C120_2F.png",
@@ -5291,6 +5545,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "1710_C602_4F",
     "imagens": [],
     "tem_foto": false
@@ -5311,6 +5566,7 @@
     "obs": "AMARELADO",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "11342_C1000_2F",
     "imagens": [],
     "tem_foto": false
@@ -5331,6 +5587,7 @@
     "obs": "AMARELADO",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "11492_C1000_2F",
     "imagens": [
       "11492_C1000_2F.png",
@@ -5355,6 +5612,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "13034_C920_4F",
     "imagens": [
       "13034_C920_4F.png",
@@ -5379,6 +5637,7 @@
     "obs": "",
     "saldo": 19.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "12913_C470_2F",
     "imagens": [],
     "tem_foto": false
@@ -5399,6 +5658,7 @@
     "obs": "TING PRETO",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "60_C001+TING_2F",
     "imagens": [],
     "tem_foto": false
@@ -5419,6 +5679,7 @@
     "obs": "TING PRETO",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "10199_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -5439,6 +5700,7 @@
     "obs": "AMARELADO",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "518_C001_4F",
     "imagens": [
       "518_C001_4F.png",
@@ -5463,6 +5725,7 @@
     "obs": "AMARELADO",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "60_C001_2F",
     "imagens": [
       "60_C001_2F.png",
@@ -5486,6 +5749,7 @@
     "obs": "AMARELADO",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "354_C001_4F",
     "imagens": [
       "354_C001_4F.png",
@@ -5510,6 +5774,7 @@
     "obs": "AMARELADO",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "10134_C001_4F",
     "imagens": [
       "10134_C001_4F.png",
@@ -5534,6 +5799,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13647_C2943_4F",
     "imagens": [],
     "tem_foto": false
@@ -5554,6 +5820,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "10188_C022_4F",
     "imagens": [],
     "tem_foto": false
@@ -5574,6 +5841,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "10186_C164_4F",
     "imagens": [
       "10186_C164_4F.jpg"
@@ -5596,6 +5864,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "10199_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -5616,6 +5885,7 @@
     "obs": "",
     "saldo": 90.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 021",
     "imagem_base": "1633_C189_4F",
     "imagens": [],
     "tem_foto": false
@@ -5636,6 +5906,7 @@
     "obs": "",
     "saldo": 24.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "368_C161_4F",
     "imagens": [],
     "tem_foto": false
@@ -5656,6 +5927,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 021",
     "imagem_base": "10185_C164_4F",
     "imagens": [
       "10185_C164_4F.jpg"
@@ -5678,6 +5950,7 @@
     "obs": "",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 021",
     "imagem_base": "10183_C016_4F",
     "imagens": [],
     "tem_foto": false
@@ -5698,6 +5971,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 021",
     "imagem_base": "10187_C164_4F",
     "imagens": [
       "10187_C164_4F.png",
@@ -5721,6 +5995,7 @@
     "obs": "",
     "saldo": 48.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 021",
     "imagem_base": "551_C120_2F",
     "imagens": [
       "551_C120_2F.png",
@@ -5745,6 +6020,7 @@
     "obs": "",
     "saldo": 23.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 021",
     "imagem_base": "551_C120_2F",
     "imagens": [
       "551_C120_2F.png",
@@ -5769,6 +6045,7 @@
     "obs": "TING PRETO",
     "saldo": 27.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 021",
     "imagem_base": "10218_C001+TING_2F",
     "imagens": [],
     "tem_foto": false
@@ -5789,6 +6066,7 @@
     "obs": "",
     "saldo": 32.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 021",
     "imagem_base": "10227_C920_4F",
     "imagens": [],
     "tem_foto": false
@@ -5809,6 +6087,7 @@
     "obs": "AMARELADO",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 020",
     "imagem_base": "11474_C100_PE",
     "imagens": [],
     "tem_foto": false
@@ -5829,6 +6108,7 @@
     "obs": "C003+PRETO",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "5256_C1395_4F",
     "imagens": [],
     "tem_foto": false
@@ -5849,6 +6129,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "10245_C1539_4F",
     "imagens": [],
     "tem_foto": false
@@ -5869,6 +6150,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "5256_C1397_4F",
     "imagens": [],
     "tem_foto": false
@@ -5889,6 +6171,7 @@
     "obs": "",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "11332_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -5909,6 +6192,7 @@
     "obs": "",
     "saldo": 21.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "10400_C785_4F",
     "imagens": [],
     "tem_foto": false
@@ -5929,6 +6213,7 @@
     "obs": "",
     "saldo": 25.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "10227_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -5949,6 +6234,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "10227_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -5969,6 +6255,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13647_C2943_4F",
     "imagens": [],
     "tem_foto": false
@@ -5989,6 +6276,7 @@
     "obs": "TING AMARELO 002",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "1232_C076+TING_2F",
     "imagens": [],
     "tem_foto": false
@@ -6009,6 +6297,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "631_C030_2F",
     "imagens": [],
     "tem_foto": false
@@ -6029,6 +6318,7 @@
     "obs": "AMARELADO",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "1232_C076_2F",
     "imagens": [],
     "tem_foto": false
@@ -6049,6 +6339,7 @@
     "obs": "AMARELADO",
     "saldo": 37.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 023",
     "imagem_base": "11492_C1000_2F",
     "imagens": [
       "11492_C1000_2F.png",
@@ -6073,6 +6364,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 021",
     "imagem_base": "551_C120_2F",
     "imagens": [
       "551_C120_2F.png",
@@ -6097,6 +6389,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 021",
     "imagem_base": "10191_C120_4F",
     "imagens": [
       "10191_C120_4F.png",
@@ -6121,6 +6414,7 @@
     "obs": "",
     "saldo": 16.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "10133_C920_4F",
     "imagens": [
       "10133_C920_4F.jpg"
@@ -6143,6 +6437,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "10369_C190_4F",
     "imagens": [],
     "tem_foto": false
@@ -6163,6 +6458,7 @@
     "obs": "1 PC COM 1,5625 E 1 PC COM 6 GRS",
     "saldo": 7.5625,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "10137_C159_4F",
     "imagens": [],
     "tem_foto": false
@@ -6183,6 +6479,7 @@
     "obs": "TING LARANJA",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "1232_C076+TING_2F",
     "imagens": [],
     "tem_foto": false
@@ -6203,6 +6500,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "10182_C081_4F",
     "imagens": [
       "10182_C081_4F.png",
@@ -6226,6 +6524,7 @@
     "obs": "BRANCO+ROSA",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "629_C412_2F",
     "imagens": [],
     "tem_foto": false
@@ -6246,6 +6545,7 @@
     "obs": "AMARELADO",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 023",
     "imagem_base": "11084_C001_PE",
     "imagens": [],
     "tem_foto": false
@@ -6266,6 +6566,7 @@
     "obs": "BRANCO+AZUL",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "629_C9999_2F",
     "imagens": [],
     "tem_foto": false
@@ -6286,6 +6587,7 @@
     "obs": "BRANCO+VERDE",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "629_C9999_2F",
     "imagens": [],
     "tem_foto": false
@@ -6306,6 +6608,7 @@
     "obs": "TING PRETO",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 023",
     "imagem_base": "354_C001+PRETO_4F",
     "imagens": [],
     "tem_foto": false
@@ -6326,6 +6629,7 @@
     "obs": "BRANACO+VERMELHO",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "629_C9999_2F",
     "imagens": [],
     "tem_foto": false
@@ -6346,6 +6650,7 @@
     "obs": "AMARELADO",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "10346_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -6366,6 +6671,7 @@
     "obs": "AMARELADO",
     "saldo": 20.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "642_C279_2F",
     "imagens": [],
     "tem_foto": false
@@ -6386,6 +6692,7 @@
     "obs": "BRANCO+GOIABA",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "629_C9999_2F",
     "imagens": [],
     "tem_foto": false
@@ -6406,6 +6713,7 @@
     "obs": "BRANCO+LILAS",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "629_C9999_2F",
     "imagens": [],
     "tem_foto": false
@@ -6426,6 +6734,7 @@
     "obs": "TRANSP+ROSA CLARO",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "631_C9999_2F",
     "imagens": [],
     "tem_foto": false
@@ -6446,6 +6755,7 @@
     "obs": "TRANSP+GOIABA",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "631_C9999_2F",
     "imagens": [],
     "tem_foto": false
@@ -6466,6 +6776,7 @@
     "obs": "TRANSP+ROXO",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "631_C9999_2F",
     "imagens": [],
     "tem_foto": false
@@ -6486,6 +6797,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "_C000",
     "imagens": [],
     "tem_foto": false
@@ -6506,6 +6818,7 @@
     "obs": "TRANSP+AZUL",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "631_C9999_2F",
     "imagens": [],
     "tem_foto": false
@@ -6526,6 +6839,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "294_C614+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -6546,6 +6860,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "10190_C145_4F",
     "imagens": [
       "10190_C145_4F.jpg",
@@ -6570,6 +6885,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "13034_C920_4F",
     "imagens": [
       "13034_C920_4F.png",
@@ -6594,6 +6910,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "10188_C022_4F",
     "imagens": [],
     "tem_foto": false
@@ -6614,6 +6931,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "12105_C920_4F",
     "imagens": [
       "12105_C920_4F.png",
@@ -6638,6 +6956,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "1483_C001_4F",
     "imagens": [
       "1483_C001_4F.png",
@@ -6662,6 +6981,7 @@
     "obs": "",
     "saldo": 1.1736111111111112,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "815_C003_1F",
     "imagens": [],
     "tem_foto": false
@@ -6682,6 +7002,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "150_C001_4F",
     "imagens": [
       "150_C001_4F.png",
@@ -6706,6 +7027,7 @@
     "obs": "AMARELADO",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "10073_C001_2F",
     "imagens": [
       "10073_C001_2F.png",
@@ -6730,6 +7052,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "10182_C081_4F",
     "imagens": [
       "10182_C081_4F.png",
@@ -6753,6 +7076,7 @@
     "obs": "AMARELADO",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "527_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -6773,6 +7097,7 @@
     "obs": "",
     "saldo": 31.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "527_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -6793,6 +7118,7 @@
     "obs": "AMARELADO",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "10139_C001_2F",
     "imagens": [],
     "tem_foto": false
@@ -6813,6 +7139,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "13034_C1757_4F",
     "imagens": [
       "13034_C1757_4F.png",
@@ -6837,6 +7164,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 025",
     "imagem_base": "184_C673_4F",
     "imagens": [
       "184_C673_4F.jpg",
@@ -6862,6 +7190,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 025",
     "imagem_base": "10182_C072_4F",
     "imagens": [],
     "tem_foto": false
@@ -6882,6 +7211,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 025",
     "imagem_base": "10134_C001_4F",
     "imagens": [
       "10134_C001_4F.png",
@@ -6906,6 +7236,7 @@
     "obs": "AMARELADO",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 025",
     "imagem_base": "12105_C1757_4F",
     "imagens": [],
     "tem_foto": false
@@ -6926,6 +7257,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 025",
     "imagem_base": "12106_C1757_2F",
     "imagens": [],
     "tem_foto": false
@@ -6946,6 +7278,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 025",
     "imagem_base": "150_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -6966,6 +7299,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 025",
     "imagem_base": "10804_C495_4F",
     "imagens": [
       "10804_C495_4F.jpg"
@@ -6988,6 +7322,7 @@
     "obs": "AMARELADO",
     "saldo": 20.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 025",
     "imagem_base": "10188_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -7008,6 +7343,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 024",
     "imagem_base": "472_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -7028,6 +7364,7 @@
     "obs": "AMARELADO",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 025",
     "imagem_base": "11278_C100_4F",
     "imagens": [],
     "tem_foto": false
@@ -7048,6 +7385,7 @@
     "obs": "",
     "saldo": 16.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 025",
     "imagem_base": "10159_C1350_2F",
     "imagens": [],
     "tem_foto": false
@@ -7068,6 +7406,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 025",
     "imagem_base": "13541_C138_4F",
     "imagens": [],
     "tem_foto": false
@@ -7088,6 +7427,7 @@
     "obs": "",
     "saldo": 61.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 025",
     "imagem_base": "11278_C100_4F",
     "imagens": [],
     "tem_foto": false
@@ -7108,6 +7448,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "10199_C154_4F",
     "imagens": [
       "10199_C154_4F.png",
@@ -7132,6 +7473,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "13643_C2929_4F",
     "imagens": [],
     "tem_foto": false
@@ -7152,6 +7494,7 @@
     "obs": "",
     "saldo": 36.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "10182_C081_4F",
     "imagens": [
       "10182_C081_4F.png",
@@ -7175,6 +7518,7 @@
     "obs": "",
     "saldo": 27.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "12636_C917_1F",
     "imagens": [],
     "tem_foto": false
@@ -7195,6 +7539,7 @@
     "obs": "",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "10199_C517_4F",
     "imagens": [
       "10199_C517_4F.png",
@@ -7219,6 +7564,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "12337_C1857_2F",
     "imagens": [],
     "tem_foto": false
@@ -7239,6 +7585,7 @@
     "obs": "",
     "saldo": 1.9444444444444444,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "423_C403_4F",
     "imagens": [],
     "tem_foto": false
@@ -7259,6 +7606,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "_C000",
     "imagens": [],
     "tem_foto": false
@@ -7279,6 +7627,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "423_C9999_4F",
     "imagens": [],
     "tem_foto": false
@@ -7299,6 +7648,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "423_C9999_4F",
     "imagens": [],
     "tem_foto": false
@@ -7319,6 +7669,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "423_C9999_4F",
     "imagens": [],
     "tem_foto": false
@@ -7339,6 +7690,7 @@
     "obs": "PARA TINGIR",
     "saldo": 23.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "10134_C001_4F",
     "imagens": [
       "10134_C001_4F.png",
@@ -7363,6 +7715,7 @@
     "obs": "",
     "saldo": 23.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "244_C307_4F",
     "imagens": [
       "244_C307_4F.png",
@@ -7387,6 +7740,7 @@
     "obs": "",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "10182_C072_4F",
     "imagens": [],
     "tem_foto": false
@@ -7407,6 +7761,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "551_C120_2F",
     "imagens": [
       "551_C120_2F.png",
@@ -7431,6 +7786,7 @@
     "obs": "PARA CORES",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "11111_C001_2F",
     "imagens": [],
     "tem_foto": false
@@ -7451,6 +7807,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "11111_C001+TING_2F",
     "imagens": [],
     "tem_foto": false
@@ -7471,6 +7828,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "1268_C108_4F",
     "imagens": [],
     "tem_foto": false
@@ -7491,6 +7849,7 @@
     "obs": "",
     "saldo": 1.7847222222222223,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "10138_C100_4F",
     "imagens": [],
     "tem_foto": false
@@ -7511,6 +7870,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "423_C9999_4F",
     "imagens": [],
     "tem_foto": false
@@ -7531,6 +7891,7 @@
     "obs": "",
     "saldo": 21.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 026",
     "imagem_base": "10427_C002_4F",
     "imagens": [
       "10427_C002_4F.png"
@@ -7553,6 +7914,7 @@
     "obs": "",
     "saldo": 49.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "1675_C003_2F",
     "imagens": [],
     "tem_foto": false
@@ -7573,6 +7935,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "681_C154_2F",
     "imagens": [],
     "tem_foto": false
@@ -7593,6 +7956,7 @@
     "obs": "",
     "saldo": 1.875,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "688_C669_4F",
     "imagens": [
       "688_C669_4F.jpg"
@@ -7615,6 +7979,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "1598_C017_4F",
     "imagens": [],
     "tem_foto": false
@@ -7635,6 +8000,7 @@
     "obs": "PARA CORES",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "10135_C1000_4F",
     "imagens": [
       "10135_C1000_4F.png",
@@ -7658,6 +8024,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "10218_C100+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -7678,6 +8045,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "390_C143_4F",
     "imagens": [],
     "tem_foto": false
@@ -7698,6 +8066,7 @@
     "obs": "",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "681_C619_2F",
     "imagens": [],
     "tem_foto": false
@@ -7718,6 +8087,7 @@
     "obs": "PARA CORES",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "499_C001_2F",
     "imagens": [],
     "tem_foto": false
@@ -7738,6 +8108,7 @@
     "obs": "",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "10021_C052_4F",
     "imagens": [],
     "tem_foto": false
@@ -7758,6 +8129,7 @@
     "obs": "",
     "saldo": 26.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "12913_C470+TING_2F",
     "imagens": [],
     "tem_foto": false
@@ -7778,6 +8150,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "254_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -7798,6 +8171,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "2053_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -7818,6 +8192,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "10159_C1350_4F",
     "imagens": [],
     "tem_foto": false
@@ -7838,6 +8213,7 @@
     "obs": "",
     "saldo": 27.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "379_C100_4F",
     "imagens": [],
     "tem_foto": false
@@ -7858,6 +8234,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "1252_C002_4F",
     "imagens": [],
     "tem_foto": false
@@ -7878,6 +8255,7 @@
     "obs": "",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "10254_C132_2F",
     "imagens": [],
     "tem_foto": false
@@ -7898,6 +8276,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "11024_C207_4F",
     "imagens": [],
     "tem_foto": false
@@ -7918,6 +8297,7 @@
     "obs": "",
     "saldo": 71.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "10120_C142_4F",
     "imagens": [],
     "tem_foto": false
@@ -7938,6 +8318,7 @@
     "obs": "BOLA DE FUTEBOL",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "2364_C1206_2F",
     "imagens": [
       "2364_C1206_2F.png",
@@ -7962,6 +8343,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "10137_C159_4F",
     "imagens": [],
     "tem_foto": false
@@ -7982,6 +8364,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "514_C001_4F",
     "imagens": [
       "514_C001_4F.png",
@@ -8006,6 +8389,7 @@
     "obs": "ANCORA",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "4094_C879_2F",
     "imagens": [],
     "tem_foto": false
@@ -8026,6 +8410,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "10526_C003_4F",
     "imagens": [],
     "tem_foto": false
@@ -8046,6 +8431,7 @@
     "obs": "PARA TINGIR EM CORES, 1 PC COM 4GR E 1 PC COM 10GR",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "10139_C001_4F",
     "imagens": [
       "10139_C001_4F.png",
@@ -8069,6 +8455,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "577_C300+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -8089,6 +8476,7 @@
     "obs": "FORA DO PADRÃO DA COR",
     "saldo": 33.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "10120_C142_4F",
     "imagens": [],
     "tem_foto": false
@@ -8109,6 +8497,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "_C000",
     "imagens": [],
     "tem_foto": false
@@ -8129,6 +8518,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "490_C245_4F",
     "imagens": [],
     "tem_foto": false
@@ -8149,6 +8539,7 @@
     "obs": "",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "654_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -8169,6 +8560,7 @@
     "obs": "",
     "saldo": 48.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "12236_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -8189,6 +8581,7 @@
     "obs": "",
     "saldo": 41.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 029",
     "imagem_base": "10130_C920_4F",
     "imagens": [
       "10130_C920_4F.jpg",
@@ -8214,6 +8607,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "10139_C001_2F",
     "imagens": [],
     "tem_foto": false
@@ -8234,6 +8628,7 @@
     "obs": "FORA DO PADRÃO DA COR",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "10180_C011_4F",
     "imagens": [],
     "tem_foto": false
@@ -8254,6 +8649,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 028",
     "imagem_base": "10178_C080_4F",
     "imagens": [],
     "tem_foto": false
@@ -8274,6 +8670,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 0.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 029",
     "imagem_base": "10139_C001_4F",
     "imagens": [
       "10139_C001_4F.png",
@@ -8297,6 +8694,7 @@
     "obs": "FURO RETANGULAR CORTE LASER",
     "saldo": 37.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 029",
     "imagem_base": "2382_C001_2F",
     "imagens": [],
     "tem_foto": false
@@ -8317,6 +8715,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 28.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 029",
     "imagem_base": "665_C001_4F",
     "imagens": [
       "665_C001_4F.png",
@@ -8341,6 +8740,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 029",
     "imagem_base": "10529_C064_4F",
     "imagens": [],
     "tem_foto": false
@@ -8361,6 +8761,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 029",
     "imagem_base": "1731_C107_4F",
     "imagens": [],
     "tem_foto": false
@@ -8381,6 +8782,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 029",
     "imagem_base": "1454_C920_4F",
     "imagens": [],
     "tem_foto": false
@@ -8401,6 +8803,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 029",
     "imagem_base": "11191_C1042_4F",
     "imagens": [
       "11191_C1042_4F.jpg"
@@ -8423,6 +8826,7 @@
     "obs": "",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "1493_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -8443,6 +8847,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 029",
     "imagem_base": "11332_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -8463,6 +8868,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "1483_C001_4F",
     "imagens": [
       "1483_C001_4F.png",
@@ -8487,6 +8893,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "10223_C001_1F",
     "imagens": [],
     "tem_foto": false
@@ -8507,6 +8914,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "12107_C920_4F",
     "imagens": [
       "12107_C920_4F.png",
@@ -8531,6 +8939,7 @@
     "obs": "",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "10804_C495_4F",
     "imagens": [
       "10804_C495_4F.jpg"
@@ -8553,6 +8962,7 @@
     "obs": "",
     "saldo": 1.7361111111111112,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "10804_C493_4F",
     "imagens": [
       "10804_C493_4F.jpg"
@@ -8575,6 +8985,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "13034_C1757_4F",
     "imagens": [
       "13034_C1757_4F.png",
@@ -8599,6 +9010,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "12107_C1757_4F",
     "imagens": [
       "12107_C1757_4F.png",
@@ -8623,6 +9035,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "518_C584+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -8643,6 +9056,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "10223_C161_1F",
     "imagens": [],
     "tem_foto": false
@@ -8663,6 +9077,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "10223_C100_PE",
     "imagens": [],
     "tem_foto": false
@@ -8683,6 +9098,7 @@
     "obs": "",
     "saldo": 16.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "10223_C001+TING_1F",
     "imagens": [],
     "tem_foto": false
@@ -8703,6 +9119,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "518_C584_4F",
     "imagens": [],
     "tem_foto": false
@@ -8723,6 +9140,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 031",
     "imagem_base": "1260_C100_2F",
     "imagens": [],
     "tem_foto": false
@@ -8743,6 +9161,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "10131_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -8763,6 +9182,7 @@
     "obs": "",
     "saldo": 0.5,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "10616_C467_4F",
     "imagens": [],
     "tem_foto": false
@@ -8783,6 +9203,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "10203_C127+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -8803,6 +9224,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 031",
     "imagem_base": "12211_C1837+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -8823,6 +9245,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 031",
     "imagem_base": "10529_C064_4F",
     "imagens": [],
     "tem_foto": false
@@ -8843,6 +9266,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 030",
     "imagem_base": "1792_C106_4F",
     "imagens": [],
     "tem_foto": false
@@ -8863,6 +9287,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 031",
     "imagem_base": "10648_C494_4F",
     "imagens": [],
     "tem_foto": false
@@ -8883,6 +9308,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 031",
     "imagem_base": "10648_C496_4F",
     "imagens": [],
     "tem_foto": false
@@ -8903,6 +9329,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 001",
     "imagem_base": "13649_C2923_4F",
     "imagens": [],
     "tem_foto": false
@@ -8923,6 +9350,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 24.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 031",
     "imagem_base": "12618_C001_4F",
     "imagens": [],
     "tem_foto": false
@@ -8943,6 +9371,7 @@
     "obs": "",
     "saldo": 22.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 031",
     "imagem_base": "10256_C017_4F",
     "imagens": [],
     "tem_foto": false
@@ -8963,6 +9392,7 @@
     "obs": "",
     "saldo": 22.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "12618_C920_4F",
     "imagens": [],
     "tem_foto": false
@@ -8983,6 +9413,7 @@
     "obs": "C106+436",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "1792_C106+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -9003,6 +9434,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "1483_C001+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -9023,6 +9455,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "10199_C517_4F",
     "imagens": [
       "10199_C517_4F.png",
@@ -9047,6 +9480,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "10223_C229_1F",
     "imagens": [
       "10223_C229_1F.jpg"
@@ -9069,6 +9503,7 @@
     "obs": "",
     "saldo": 1.604,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 022",
     "imagem_base": "13571_C3047_2F",
     "imagens": [],
     "tem_foto": false
@@ -9089,6 +9524,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "12106_C920_2F",
     "imagens": [
       "12106_C920_2F.png",
@@ -9113,6 +9549,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "12107_C920_4F",
     "imagens": [
       "12107_C920_4F.png",
@@ -9137,6 +9574,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "12103_C920_4F",
     "imagens": [
       "12103_C920_4F.png",
@@ -9161,6 +9599,7 @@
     "obs": "",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "1252_C002_4F",
     "imagens": [],
     "tem_foto": false
@@ -9181,6 +9620,7 @@
     "obs": "",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "10201_C173_2F",
     "imagens": [
       "10201_C173_2F.png",
@@ -9205,6 +9645,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "609_C595_4F",
     "imagens": [
       "609_C595_4F.jpg"
@@ -9227,6 +9668,7 @@
     "obs": "",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "12635_C145_2F",
     "imagens": [
       "12635_C145_2F.png",
@@ -9251,6 +9693,7 @@
     "obs": "C086+1063",
     "saldo": 288.0,
     "unidade": "PÇ",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "4897_C086+TING_4F",
     "imagens": [],
     "tem_foto": false
@@ -9271,6 +9714,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "10187_C164_4F",
     "imagens": [
       "10187_C164_4F.png",
@@ -9294,6 +9738,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "10355_C170_4F",
     "imagens": [],
     "tem_foto": false
@@ -9314,6 +9759,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "10366_C188_4F",
     "imagens": [
       "10366_C188_4F.jpg",
@@ -9339,6 +9785,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "10130_C824_4F",
     "imagens": [
       "10130_C824_4F.png",
@@ -9363,6 +9810,7 @@
     "obs": "",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 032",
     "imagem_base": "11070_C588_4F",
     "imagens": [
       "11070_C588_4F.png",
@@ -9387,6 +9835,7 @@
     "obs": "",
     "saldo": 61.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "_C000",
     "imagens": [],
     "tem_foto": false
@@ -9407,6 +9856,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "_C000",
     "imagens": [],
     "tem_foto": false
@@ -9427,6 +9877,7 @@
     "obs": "",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "_C000",
     "imagens": [],
     "tem_foto": false
@@ -9447,6 +9898,7 @@
     "obs": "C1350",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "11070_C1350",
     "imagens": [],
     "tem_foto": false
@@ -9467,6 +9919,7 @@
     "obs": "",
     "saldo": 141.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -9490,6 +9943,7 @@
     "obs": "",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90003_C100",
     "imagens": [],
     "tem_foto": false
@@ -9510,6 +9964,7 @@
     "obs": "",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C100+27",
     "imagens": [],
     "tem_foto": false
@@ -9530,6 +9985,7 @@
     "obs": "",
     "saldo": 22.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C001+27",
     "imagens": [],
     "tem_foto": false
@@ -9550,6 +10006,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C920",
     "imagens": [],
     "tem_foto": false
@@ -9570,6 +10027,7 @@
     "obs": "FOSCO",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -9593,6 +10051,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -9617,6 +10076,7 @@
     "obs": "",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90003_C001",
     "imagens": [],
     "tem_foto": false
@@ -9637,6 +10097,7 @@
     "obs": "",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -9660,6 +10121,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90001_C001+27",
     "imagens": [],
     "tem_foto": false
@@ -9680,6 +10142,7 @@
     "obs": "",
     "saldo": 50.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C001+27",
     "imagens": [],
     "tem_foto": false
@@ -9700,6 +10163,7 @@
     "obs": "",
     "saldo": 22.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -9723,6 +10187,7 @@
     "obs": "",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -9746,6 +10211,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -9770,6 +10236,7 @@
     "obs": "",
     "saldo": 82.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C920",
     "imagens": [],
     "tem_foto": false
@@ -9790,6 +10257,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -9813,6 +10281,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -9837,6 +10306,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -9860,6 +10330,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -9883,6 +10354,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90001_C920",
     "imagens": [],
     "tem_foto": false
@@ -9903,6 +10375,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90003_C001",
     "imagens": [],
     "tem_foto": false
@@ -9923,6 +10396,7 @@
     "obs": "",
     "saldo": 120.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -9946,6 +10420,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C100",
     "imagens": [],
     "tem_foto": false
@@ -9966,6 +10441,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C100",
     "imagens": [],
     "tem_foto": false
@@ -9986,6 +10462,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90004_C100",
     "imagens": [],
     "tem_foto": false
@@ -10006,6 +10483,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C100",
     "imagens": [],
     "tem_foto": false
@@ -10026,6 +10504,7 @@
     "obs": "1 PACOTE COM 24 E OUTRO COM 30",
     "saldo": 54.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C100",
     "imagens": [],
     "tem_foto": false
@@ -10046,6 +10525,7 @@
     "obs": "",
     "saldo": 35.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90001_C100",
     "imagens": [],
     "tem_foto": false
@@ -10066,6 +10546,7 @@
     "obs": "2 PC - 1 COM 7 GR E 1 COM 5 GR",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -10090,6 +10571,7 @@
     "obs": "1 PC COM 35GR E 1 PC COM 20GR",
     "saldo": 35.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90005_C1000",
     "imagens": [
       "90005_C1000.png",
@@ -10114,6 +10596,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90005_C1000",
     "imagens": [
       "90005_C1000.png",
@@ -10138,6 +10621,7 @@
     "obs": "",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10131_C001",
     "imagens": [
       "10131_C001.png",
@@ -10162,6 +10646,7 @@
     "obs": "",
     "saldo": 310.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90004_C001+27",
     "imagens": [],
     "tem_foto": false
@@ -10182,6 +10667,7 @@
     "obs": "",
     "saldo": 73.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -10206,6 +10692,7 @@
     "obs": "",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -10229,6 +10716,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -10253,6 +10741,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90003_C100",
     "imagens": [],
     "tem_foto": false
@@ -10273,6 +10762,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90003_C001+9003",
     "imagens": [],
     "tem_foto": false
@@ -10293,6 +10783,7 @@
     "obs": "",
     "saldo": 31.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -10316,6 +10807,7 @@
     "obs": "PARA TINGIR DE PRETO",
     "saldo": 55.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -10339,6 +10831,7 @@
     "obs": "GR",
     "saldo": 18.0,
     "unidade": "",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "10433_C521",
     "imagens": [
       "10433_C521.png",
@@ -10363,6 +10856,7 @@
     "obs": "",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10280_C3044",
     "imagens": [],
     "tem_foto": false
@@ -10383,6 +10877,7 @@
     "obs": "1 PACOTE COM 27 E 1 PACOTE COM 2",
     "saldo": 29.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10315_C521",
     "imagens": [
       "10315_C521.png",
@@ -10407,6 +10902,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10435_C521",
     "imagens": [
       "10435_C521_4F.png",
@@ -10431,6 +10927,7 @@
     "obs": "2 PACOTES COM 10 GRS CADA",
     "saldo": 20.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "551_C120",
     "imagens": [
       "551_C120_2F.png",
@@ -10455,6 +10952,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10315_C521",
     "imagens": [
       "10315_C521.png",
@@ -10479,6 +10977,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10315_C521",
     "imagens": [
       "10315_C521.png",
@@ -10503,6 +11002,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10315_C521",
     "imagens": [
       "10315_C521.png",
@@ -10527,6 +11027,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10316_C521",
     "imagens": [
       "10316_C521_4F.png",
@@ -10551,6 +11052,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10435_C521",
     "imagens": [
       "10435_C521_4F.png",
@@ -10575,6 +11077,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10223_C229",
     "imagens": [
       "10223_C229_1F.jpg"
@@ -10597,6 +11100,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10315_C521",
     "imagens": [
       "10315_C521.png",
@@ -10621,6 +11125,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10435_C521",
     "imagens": [
       "10435_C521_4F.png",
@@ -10645,6 +11150,7 @@
     "obs": "1 PACOTE COM 3GR E 1 PACOTE COM 1 GRS",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10315_C521",
     "imagens": [
       "10315_C521.png",
@@ -10669,6 +11175,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10434_C521",
     "imagens": [],
     "tem_foto": false
@@ -10689,6 +11196,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10315_C521",
     "imagens": [
       "10315_C521.png",
@@ -10713,6 +11221,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10316_C521",
     "imagens": [
       "10316_C521_4F.png",
@@ -10737,6 +11246,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10437_C521",
     "imagens": [],
     "tem_foto": false
@@ -10757,6 +11267,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10316_C521",
     "imagens": [
       "10316_C521_4F.png",
@@ -10781,6 +11292,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10192_C094",
     "imagens": [],
     "tem_foto": false
@@ -10801,6 +11313,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10437_C521",
     "imagens": [],
     "tem_foto": false
@@ -10821,6 +11334,7 @@
     "obs": "BRILHO",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10435_C521",
     "imagens": [
       "10435_C521_4F.png",
@@ -10845,6 +11359,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10437_C521",
     "imagens": [],
     "tem_foto": false
@@ -10865,6 +11380,7 @@
     "obs": "",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10134_C917",
     "imagens": [
       "10134_C917_4F.jpg"
@@ -10887,6 +11403,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10354_C961",
     "imagens": [],
     "tem_foto": false
@@ -10907,6 +11424,7 @@
     "obs": "",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10199_C154",
     "imagens": [
       "10199_C154_4F.png",
@@ -10931,6 +11449,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "483_C613",
     "imagens": [],
     "tem_foto": false
@@ -10951,6 +11470,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10171_C216",
     "imagens": [],
     "tem_foto": false
@@ -10971,6 +11491,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10183_C016",
     "imagens": [],
     "tem_foto": false
@@ -10991,6 +11512,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10633_C521",
     "imagens": [],
     "tem_foto": false
@@ -11011,6 +11533,7 @@
     "obs": "CORAÇAO",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "2117_C001",
     "imagens": [],
     "tem_foto": false
@@ -11031,6 +11554,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10392_C136",
     "imagens": [],
     "tem_foto": false
@@ -11051,6 +11575,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10144_C193",
     "imagens": [],
     "tem_foto": false
@@ -11071,6 +11596,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10183_C016",
     "imagens": [],
     "tem_foto": false
@@ -11091,6 +11617,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10427_C002+139",
     "imagens": [],
     "tem_foto": false
@@ -11111,6 +11638,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 033",
     "imagem_base": "10804_C494",
     "imagens": [
       "10804_C494_4F.png",
@@ -11135,6 +11663,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10636_C521",
     "imagens": [],
     "tem_foto": false
@@ -11155,6 +11684,7 @@
     "obs": "",
     "saldo": 251.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10635_C521",
     "imagens": [],
     "tem_foto": false
@@ -11175,6 +11705,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 018",
     "imagem_base": "10316_C521",
     "imagens": [
       "10316_C521_4F.png",
@@ -11199,6 +11730,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "558_C001+X",
     "imagens": [],
     "tem_foto": false
@@ -11219,6 +11751,7 @@
     "obs": "",
     "saldo": 35.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "10172_C203",
     "imagens": [],
     "tem_foto": false
@@ -11239,6 +11772,7 @@
     "obs": "",
     "saldo": 19.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "10172_C203",
     "imagens": [],
     "tem_foto": false
@@ -11259,6 +11793,7 @@
     "obs": "",
     "saldo": 37.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "13159_C2329",
     "imagens": [
       "13159_C2329_4F.png"
@@ -11281,6 +11816,7 @@
     "obs": "",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "1651_C2521",
     "imagens": [
       "1651_C2521_1F.png"
@@ -11303,6 +11839,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "1651_C2521",
     "imagens": [
       "1651_C2521_1F.png"
@@ -11325,6 +11862,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "11368_C2500",
     "imagens": [
       "11368_C2500_4F.png"
@@ -11347,6 +11885,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "2081_C2484",
     "imagens": [],
     "tem_foto": false
@@ -11367,6 +11906,7 @@
     "obs": "",
     "saldo": 120.0,
     "unidade": "PC",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "10647_C496",
     "imagens": [],
     "tem_foto": false
@@ -11387,6 +11927,7 @@
     "obs": "BRILHO",
     "saldo": 33.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "2081_C2484",
     "imagens": [],
     "tem_foto": false
@@ -11407,6 +11948,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "1646_C2416",
     "imagens": [
       "1646_C2416_4F.png"
@@ -11429,6 +11971,7 @@
     "obs": "",
     "saldo": 34.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90001_C100",
     "imagens": [],
     "tem_foto": false
@@ -11449,6 +11992,7 @@
     "obs": "",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "12468_C2706",
     "imagens": [
       "12468_C2706_4F.png"
@@ -11471,6 +12015,7 @@
     "obs": "PASSARO",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "13542_C1000+410",
     "imagens": [],
     "tem_foto": false
@@ -11491,6 +12036,7 @@
     "obs": "PASSARO",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "13542_C1000+410",
     "imagens": [],
     "tem_foto": false
@@ -11511,6 +12057,7 @@
     "obs": "PASSARO",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13542_C1000+441",
     "imagens": [],
     "tem_foto": false
@@ -11531,6 +12078,7 @@
     "obs": "PASSARO",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13542_C1000+441",
     "imagens": [],
     "tem_foto": false
@@ -11551,6 +12099,7 @@
     "obs": "",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "177_C1042",
     "imagens": [
       "177_C1042_2F.png"
@@ -11573,6 +12122,7 @@
     "obs": "",
     "saldo": 26.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 017",
     "imagem_base": "90001_C100+401",
     "imagens": [],
     "tem_foto": false
@@ -11593,6 +12143,7 @@
     "obs": "",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "10187_C080",
     "imagens": [
       "10187_C080_4F.png"
@@ -11615,6 +12166,7 @@
     "obs": "",
     "saldo": 139.0,
     "unidade": "PC",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13161_C2325",
     "imagens": [
       "13161_C2325_2F.png"
@@ -11637,6 +12189,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "11368_C2501",
     "imagens": [
       "11368_C2501_4F.png"
@@ -11659,6 +12212,7 @@
     "obs": "2 PACOTES COM 27 GRS",
     "saldo": 54.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "11368_C2501",
     "imagens": [
       "11368_C2501_4F.png"
@@ -11681,6 +12235,7 @@
     "obs": "",
     "saldo": 112.0,
     "unidade": "PC",
+    "localizacao": "Corredor A / Caixa 034",
     "imagem_base": "10190_C2466",
     "imagens": [
       "10190_C2466_4F.png",
@@ -11704,6 +12259,7 @@
     "obs": "",
     "saldo": 33.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "177_C1042",
     "imagens": [
       "177_C1042_2F.png"
@@ -11726,6 +12282,7 @@
     "obs": "",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "11368_C2501",
     "imagens": [
       "11368_C2501_4F.png"
@@ -11748,6 +12305,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13314_C001+58",
     "imagens": [],
     "tem_foto": false
@@ -11768,6 +12326,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13314_C001+405",
     "imagens": [],
     "tem_foto": false
@@ -11788,6 +12347,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13314_C001+405",
     "imagens": [],
     "tem_foto": false
@@ -11808,6 +12368,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "10245_C2942",
     "imagens": [],
     "tem_foto": false
@@ -11828,6 +12389,7 @@
     "obs": "",
     "saldo": 33.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13572_C2738",
     "imagens": [],
     "tem_foto": false
@@ -11848,6 +12410,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13546_C2218",
     "imagens": [
       "13546_C2218_4F.png"
@@ -11870,6 +12433,7 @@
     "obs": "",
     "saldo": 16.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13546_C2218",
     "imagens": [
       "13546_C2218_4F.png"
@@ -11892,6 +12456,7 @@
     "obs": "1 PC COM 11GR E 1 PC COM 2GR",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13546_C2218",
     "imagens": [
       "13546_C2218_4F.png"
@@ -11914,6 +12479,7 @@
     "obs": "",
     "saldo": 21.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13572_C2739",
     "imagens": [],
     "tem_foto": false
@@ -11934,6 +12500,7 @@
     "obs": "PÉ - 1 PC COM 31 GR E 1 PC COM 1 GR",
     "saldo": 32.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "1651_C2521",
     "imagens": [
       "1651_C2521_1F.png"
@@ -11956,6 +12523,7 @@
     "obs": "CORAÇÃO COM GLITTER PRATA",
     "saldo": 21.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "12860_C293",
     "imagens": [
       "12860_C293_2F.png"
@@ -11978,6 +12546,7 @@
     "obs": "",
     "saldo": 19.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13574_C2742",
     "imagens": [],
     "tem_foto": false
@@ -11998,6 +12567,7 @@
     "obs": "",
     "saldo": 19.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13570_C2725",
     "imagens": [],
     "tem_foto": false
@@ -12018,6 +12588,7 @@
     "obs": "",
     "saldo": 36.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13570_C2725",
     "imagens": [],
     "tem_foto": false
@@ -12038,6 +12609,7 @@
     "obs": "",
     "saldo": 26.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13572_C2727",
     "imagens": [],
     "tem_foto": false
@@ -12058,6 +12630,7 @@
     "obs": "",
     "saldo": 27.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "13574_C2743",
     "imagens": [],
     "tem_foto": false
@@ -12078,6 +12651,7 @@
     "obs": "1 PC COM 6GR E 1 PC COM 4 GR",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 035",
     "imagem_base": "12861_C100",
     "imagens": [
       "12861_C100_2F.png"
@@ -12100,6 +12674,7 @@
     "obs": "",
     "saldo": 33.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13573_C2745",
     "imagens": [],
     "tem_foto": false
@@ -12120,6 +12695,7 @@
     "obs": "FLOR",
     "saldo": 21.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13571_C2741",
     "imagens": [],
     "tem_foto": false
@@ -12140,6 +12716,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13314_C001+596",
     "imagens": [],
     "tem_foto": false
@@ -12160,6 +12737,7 @@
     "obs": "FLOR",
     "saldo": 30.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13570_C2746",
     "imagens": [],
     "tem_foto": false
@@ -12180,6 +12758,7 @@
     "obs": "FLOR",
     "saldo": 27.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13571_C2741",
     "imagens": [],
     "tem_foto": false
@@ -12200,6 +12779,7 @@
     "obs": "CORAÇAO",
     "saldo": 29.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "725_C1201",
     "imagens": [],
     "tem_foto": false
@@ -12220,6 +12800,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "12630_C2226",
     "imagens": [],
     "tem_foto": false
@@ -12240,6 +12821,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "12068_C2226",
     "imagens": [],
     "tem_foto": false
@@ -12260,6 +12842,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "12972_C2226",
     "imagens": [],
     "tem_foto": false
@@ -12280,6 +12863,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13314_C539",
     "imagens": [],
     "tem_foto": false
@@ -12300,6 +12884,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "10218_C100+561",
     "imagens": [],
     "tem_foto": false
@@ -12320,6 +12905,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "10218_C100+91",
     "imagens": [],
     "tem_foto": false
@@ -12340,6 +12926,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "10218_C100+1175",
     "imagens": [],
     "tem_foto": false
@@ -12360,6 +12947,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "10218_C100+1175",
     "imagens": [],
     "tem_foto": false
@@ -12380,6 +12968,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "10218_C100+539",
     "imagens": [],
     "tem_foto": false
@@ -12400,6 +12989,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "10218_C100+561",
     "imagens": [],
     "tem_foto": false
@@ -12420,6 +13010,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13311_C1000+11116",
     "imagens": [],
     "tem_foto": false
@@ -12440,6 +13031,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13311_C1000+1386",
     "imagens": [],
     "tem_foto": false
@@ -12460,6 +13052,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13311_C1000+487",
     "imagens": [],
     "tem_foto": false
@@ -12480,6 +13073,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13311_C1000+15-2215",
     "imagens": [],
     "tem_foto": false
@@ -12500,6 +13094,7 @@
     "obs": "",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13538_C2665+15-0522",
     "imagens": [],
     "tem_foto": false
@@ -12520,6 +13115,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13324_C936",
     "imagens": [],
     "tem_foto": false
@@ -12540,6 +13136,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13082_C2226",
     "imagens": [],
     "tem_foto": false
@@ -12560,6 +13157,7 @@
     "obs": "",
     "saldo": 134.0,
     "unidade": "PC",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "5210_C2942",
     "imagens": [],
     "tem_foto": false
@@ -12580,6 +13178,7 @@
     "obs": "",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13570_C2747",
     "imagens": [],
     "tem_foto": false
@@ -12600,6 +13199,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13570_C2747",
     "imagens": [],
     "tem_foto": false
@@ -12620,6 +13220,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "12973_C2226",
     "imagens": [],
     "tem_foto": false
@@ -12640,6 +13241,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "10503_C2226",
     "imagens": [],
     "tem_foto": false
@@ -12660,6 +13262,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13314_C001+58",
     "imagens": [],
     "tem_foto": false
@@ -12680,6 +13283,7 @@
     "obs": "PÉ",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "12947_C060",
     "imagens": [],
     "tem_foto": false
@@ -12700,6 +13304,7 @@
     "obs": "",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13571_C2726",
     "imagens": [],
     "tem_foto": false
@@ -12720,6 +13325,7 @@
     "obs": "",
     "saldo": 33.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13571_C2740",
     "imagens": [],
     "tem_foto": false
@@ -12740,6 +13346,7 @@
     "obs": "FLOR",
     "saldo": 24.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13574_C2729",
     "imagens": [],
     "tem_foto": false
@@ -12760,6 +13367,7 @@
     "obs": "FLOR",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13574_C2729",
     "imagens": [],
     "tem_foto": false
@@ -12780,6 +13388,7 @@
     "obs": "FLOR",
     "saldo": 20.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13573_C2728",
     "imagens": [],
     "tem_foto": false
@@ -12800,6 +13409,7 @@
     "obs": "FLOR",
     "saldo": 28.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13573_C2728",
     "imagens": [],
     "tem_foto": false
@@ -12820,6 +13430,7 @@
     "obs": "FLOR",
     "saldo": 16.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13572_C2727",
     "imagens": [],
     "tem_foto": false
@@ -12840,6 +13451,7 @@
     "obs": "FLOR",
     "saldo": 31.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13573_C2744",
     "imagens": [],
     "tem_foto": false
@@ -12860,6 +13472,7 @@
     "obs": "FLOR",
     "saldo": 14.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13574_C2743",
     "imagens": [],
     "tem_foto": false
@@ -12880,6 +13493,7 @@
     "obs": "FLOR",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13573_C2744",
     "imagens": [],
     "tem_foto": false
@@ -12900,6 +13514,7 @@
     "obs": "",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 036",
     "imagem_base": "13545_C2218",
     "imagens": [
       "13545_C2218_4F.png"
@@ -12922,6 +13537,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "13545_C2218",
     "imagens": [
       "13545_C2218_4F.png"
@@ -12944,6 +13560,7 @@
     "obs": "1 PC COM 17 GR E 1 PC COM 4GR",
     "saldo": 21.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "13545_C2218",
     "imagens": [
       "13545_C2218_4F.png"
@@ -12966,6 +13583,7 @@
     "obs": "FLOR",
     "saldo": 32.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "13571_C2726",
     "imagens": [],
     "tem_foto": false
@@ -12986,6 +13604,7 @@
     "obs": "",
     "saldo": 81.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 019",
     "imagem_base": "10138_C100",
     "imagens": [],
     "tem_foto": false
@@ -13006,6 +13625,7 @@
     "obs": "PÉ",
     "saldo": 84.0,
     "unidade": "GRS",
+    "localizacao": "Corredor B / Caixa 019",
     "imagem_base": "10223_C001",
     "imagens": [
       "10223_C001.png",
@@ -13029,6 +13649,7 @@
     "obs": "PÉ FOSCO - 1 PC COM 85 1 PC COM 89",
     "saldo": 174.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 019",
     "imagem_base": "10223_C001",
     "imagens": [
       "10223_C001.png",
@@ -13052,6 +13673,7 @@
     "obs": "PÉ - 1 PC COM 12GR E 1 PC COM 8GR",
     "saldo": 20.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 019",
     "imagem_base": "10223_C100",
     "imagens": [],
     "tem_foto": false
@@ -13072,6 +13694,7 @@
     "obs": "PÉ",
     "saldo": 43.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 019",
     "imagem_base": "10223_C002",
     "imagens": [],
     "tem_foto": false
@@ -13092,6 +13715,7 @@
     "obs": "1 PC COM 14GR E 1 PC COM 18 GR",
     "saldo": 32.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 019",
     "imagem_base": "10223_C100",
     "imagens": [],
     "tem_foto": false
@@ -13112,6 +13736,7 @@
     "obs": "FOSCO",
     "saldo": 57.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 019",
     "imagem_base": "10223_C100",
     "imagens": [],
     "tem_foto": false
@@ -13132,6 +13757,7 @@
     "obs": "PARA TINGIMENTO",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 019",
     "imagem_base": "10223_C100",
     "imagens": [],
     "tem_foto": false
@@ -13152,6 +13778,7 @@
     "obs": "",
     "saldo": 72.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 020",
     "imagem_base": "10223_C1623",
     "imagens": [],
     "tem_foto": false
@@ -13172,6 +13799,7 @@
     "obs": "",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90003_C920",
     "imagens": [],
     "tem_foto": false
@@ -13192,6 +13820,7 @@
     "obs": "",
     "saldo": 73.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90004_C001",
     "imagens": [
       "90004_C001_4F.png",
@@ -13215,6 +13844,7 @@
     "obs": "FOSCO",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90003_C001",
     "imagens": [],
     "tem_foto": false
@@ -13235,6 +13865,7 @@
     "obs": "",
     "saldo": 40.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90003_C100",
     "imagens": [],
     "tem_foto": false
@@ -13255,6 +13886,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90003_C100",
     "imagens": [],
     "tem_foto": false
@@ -13275,6 +13907,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 016",
     "imagem_base": "90003_C920",
     "imagens": [],
     "tem_foto": false
@@ -13295,6 +13928,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90003_C100+920",
     "imagens": [],
     "tem_foto": false
@@ -13315,6 +13949,7 @@
     "obs": "",
     "saldo": 29.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90003_C920",
     "imagens": [],
     "tem_foto": false
@@ -13335,6 +13970,7 @@
     "obs": "PARA TINGIR",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90003_C001",
     "imagens": [],
     "tem_foto": false
@@ -13355,6 +13991,7 @@
     "obs": "BRILHO",
     "saldo": 47.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90003_C001",
     "imagens": [],
     "tem_foto": false
@@ -13375,6 +14012,7 @@
     "obs": "BRILHO",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -13400,6 +14038,7 @@
     "obs": "PARA TINGIMENTO PRETO",
     "saldo": 25.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -13425,6 +14064,7 @@
     "obs": "FOSCO",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 020",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -13450,6 +14090,7 @@
     "obs": "",
     "saldo": 51.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -13475,6 +14116,7 @@
     "obs": "FOSCO",
     "saldo": 42.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -13500,6 +14142,7 @@
     "obs": "PARA TINGIMENTO",
     "saldo": 78.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 020",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -13525,6 +14168,7 @@
     "obs": "FOSCO",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -13550,6 +14194,7 @@
     "obs": "PARA TINGIR DE PRETO",
     "saldo": 30.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "495_C001",
     "imagens": [],
     "tem_foto": false
@@ -13570,6 +14215,7 @@
     "obs": "PRETO",
     "saldo": 16.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 020",
     "imagem_base": "10139_C001+920",
     "imagens": [],
     "tem_foto": false
@@ -13590,6 +14236,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10129_C001",
     "imagens": [],
     "tem_foto": false
@@ -13610,6 +14257,7 @@
     "obs": "",
     "saldo": 74.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "476_C159",
     "imagens": [],
     "tem_foto": false
@@ -13630,6 +14278,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10137_C159",
     "imagens": [],
     "tem_foto": false
@@ -13650,6 +14299,7 @@
     "obs": "",
     "saldo": 35.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10137_C159",
     "imagens": [],
     "tem_foto": false
@@ -13670,6 +14320,7 @@
     "obs": "1 PC COM 165 GR E 1 PC COM 144 GRS",
     "saldo": 309.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10137_C159",
     "imagens": [],
     "tem_foto": false
@@ -13690,6 +14341,7 @@
     "obs": "PRETO",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "476_C159+920",
     "imagens": [],
     "tem_foto": false
@@ -13710,6 +14362,7 @@
     "obs": "1 PC COM 3 GRS E 1PC COM 18 GRS",
     "saldo": 21.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10137_C159",
     "imagens": [],
     "tem_foto": false
@@ -13730,6 +14383,7 @@
     "obs": "",
     "saldo": 49.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10137_C159",
     "imagens": [],
     "tem_foto": false
@@ -13750,6 +14404,7 @@
     "obs": "PRETO",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10137_C159+920",
     "imagens": [],
     "tem_foto": false
@@ -13770,6 +14425,7 @@
     "obs": "PARA TINGIMENTO",
     "saldo": 42.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 037",
     "imagem_base": "10137_C159",
     "imagens": [],
     "tem_foto": false
@@ -13790,6 +14446,7 @@
     "obs": "",
     "saldo": 21.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10350_C326",
     "imagens": [],
     "tem_foto": false
@@ -13810,6 +14467,7 @@
     "obs": "",
     "saldo": 316.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 020",
     "imagem_base": "10350_C326",
     "imagens": [],
     "tem_foto": false
@@ -13830,6 +14488,7 @@
     "obs": "",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10350_C326",
     "imagens": [],
     "tem_foto": false
@@ -13850,6 +14509,7 @@
     "obs": "1 PC COM 42 E 1 PC COM 21",
     "saldo": 63.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10350_C326",
     "imagens": [],
     "tem_foto": false
@@ -13870,6 +14530,7 @@
     "obs": "",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10350_C326",
     "imagens": [],
     "tem_foto": false
@@ -13890,6 +14551,7 @@
     "obs": "",
     "saldo": 24.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10350_C326",
     "imagens": [],
     "tem_foto": false
@@ -13910,6 +14572,7 @@
     "obs": "FOSCO",
     "saldo": 44.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -13934,6 +14597,7 @@
     "obs": "FOSCO - 2 PC COM 13 GRS",
     "saldo": 26.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -13958,6 +14622,7 @@
     "obs": "PRETO",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C100+920",
     "imagens": [],
     "tem_foto": false
@@ -13978,6 +14643,7 @@
     "obs": "1 PC COM 3 GRS E 1 PC COM 18 GRS FOSCO",
     "saldo": 21.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -14002,6 +14668,7 @@
     "obs": "PARA TINGIR",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 020",
     "imagem_base": "398_C149",
     "imagens": [],
     "tem_foto": false
@@ -14022,6 +14689,7 @@
     "obs": "FOSCO",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -14046,6 +14714,7 @@
     "obs": "FOSCO",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -14070,6 +14739,7 @@
     "obs": "PRETO FOSCO",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C001+920",
     "imagens": [],
     "tem_foto": false
@@ -14090,6 +14760,7 @@
     "obs": "PARA TINGIR DE PRETO OU CHUMBO",
     "saldo": 30.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C100+920",
     "imagens": [],
     "tem_foto": false
@@ -14110,6 +14781,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C001+831",
     "imagens": [],
     "tem_foto": false
@@ -14130,6 +14802,7 @@
     "obs": "BRILHO",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -14154,6 +14827,7 @@
     "obs": "",
     "saldo": 46.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10223_C100",
     "imagens": [],
     "tem_foto": false
@@ -14174,6 +14848,7 @@
     "obs": "PARA TINGIR DE PRETO",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10223_C100",
     "imagens": [],
     "tem_foto": false
@@ -14194,6 +14869,7 @@
     "obs": "PRETO",
     "saldo": 23.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10223_C027",
     "imagens": [],
     "tem_foto": false
@@ -14214,6 +14890,7 @@
     "obs": "",
     "saldo": 44.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10223_C001+18-1125",
     "imagens": [],
     "tem_foto": false
@@ -14234,6 +14911,7 @@
     "obs": "MARINHO",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10223_C001+19-3923",
     "imagens": [],
     "tem_foto": false
@@ -14254,6 +14932,7 @@
     "obs": "FOSCO",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10223_C001",
     "imagens": [
       "10223_C001.png",
@@ -14277,6 +14956,7 @@
     "obs": "1 PC COM 46GR E 1 PC COM 5GR",
     "saldo": 51.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 039",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -14302,6 +14982,7 @@
     "obs": "FOSCO",
     "saldo": 25.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 039",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -14327,6 +15008,7 @@
     "obs": "",
     "saldo": 23.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 039",
     "imagem_base": "12820_C2142",
     "imagens": [],
     "tem_foto": false
@@ -14347,6 +15029,7 @@
     "obs": "BRILHO",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 039",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -14372,6 +15055,7 @@
     "obs": "FOSCO",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "498_C001",
     "imagens": [],
     "tem_foto": false
@@ -14392,6 +15076,7 @@
     "obs": "PRETO",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 039",
     "imagem_base": "498_C001+27",
     "imagens": [],
     "tem_foto": false
@@ -14412,6 +15097,7 @@
     "obs": "PARA  TINGIR DE PRETO",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 027",
     "imagem_base": "498_C001+27",
     "imagens": [],
     "tem_foto": false
@@ -14432,6 +15118,7 @@
     "obs": "",
     "saldo": 24.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 039",
     "imagem_base": "10350_C619",
     "imagens": [],
     "tem_foto": false
@@ -14452,6 +15139,7 @@
     "obs": "",
     "saldo": 26.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 039",
     "imagem_base": "10350_C619",
     "imagens": [],
     "tem_foto": false
@@ -14472,6 +15160,7 @@
     "obs": "",
     "saldo": 24.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 039",
     "imagem_base": "10350_C619",
     "imagens": [],
     "tem_foto": false
@@ -14492,6 +15181,7 @@
     "obs": "",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 039",
     "imagem_base": "10350_C619",
     "imagens": [],
     "tem_foto": false
@@ -14512,6 +15202,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 039",
     "imagem_base": "10350_C619",
     "imagens": [],
     "tem_foto": false
@@ -14532,6 +15223,7 @@
     "obs": "1 PC COM 34 GR E 1 PC COM 36 GR",
     "saldo": 70.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 039",
     "imagem_base": "10348_C1000",
     "imagens": [],
     "tem_foto": false
@@ -14552,6 +15244,7 @@
     "obs": "",
     "saldo": 43.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "10350_C619",
     "imagens": [],
     "tem_foto": false
@@ -14572,6 +15265,7 @@
     "obs": "",
     "saldo": 16.0,
     "unidade": "GE",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "10350_C619",
     "imagens": [],
     "tem_foto": false
@@ -14592,6 +15286,7 @@
     "obs": "",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "10350_C619",
     "imagens": [],
     "tem_foto": false
@@ -14612,6 +15307,7 @@
     "obs": "7 PACOTES COM 10 GR E 1 PC COM 8 GR",
     "saldo": 78.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 026",
     "imagem_base": "13659_C2944",
     "imagens": [],
     "tem_foto": false
@@ -14632,6 +15328,7 @@
     "obs": "3 PACOTES COM 10 GRS",
     "saldo": 30.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 026",
     "imagem_base": "13649_C2928",
     "imagens": [],
     "tem_foto": false
@@ -14652,6 +15349,7 @@
     "obs": "4 PC COM 10GR E 1 PC COM 2GR",
     "saldo": 42.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 026",
     "imagem_base": "13649_C2914",
     "imagens": [],
     "tem_foto": false
@@ -14672,6 +15370,7 @@
     "obs": "9 PC COM 10 GR E 1 PC COM 2GR",
     "saldo": 92.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 026",
     "imagem_base": "13646_C2928",
     "imagens": [],
     "tem_foto": false
@@ -14692,6 +15391,7 @@
     "obs": "3 PC COM 10GRS E 1 PC COM 2 GR",
     "saldo": 32.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 027",
     "imagem_base": "13649_C2928",
     "imagens": [],
     "tem_foto": false
@@ -14712,6 +15412,7 @@
     "obs": "8 PC COM 10GR E 1 PC COM 1GR",
     "saldo": 81.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 027",
     "imagem_base": "13648_C2944",
     "imagens": [],
     "tem_foto": false
@@ -14732,6 +15433,7 @@
     "obs": "3 PC COM 10GR E 1 PC COM 3GR",
     "saldo": 33.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 027",
     "imagem_base": "13646_C2914",
     "imagens": [],
     "tem_foto": false
@@ -14752,6 +15454,7 @@
     "obs": "12 PC COM 10 GRS E 1 PC COM 30 PC",
     "saldo": 120.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 027",
     "imagem_base": "13646_C2922",
     "imagens": [],
     "tem_foto": false
@@ -14772,6 +15475,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 027",
     "imagem_base": "13648_C2925",
     "imagens": [],
     "tem_foto": false
@@ -14792,6 +15496,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 027",
     "imagem_base": "13647_C2925",
     "imagens": [],
     "tem_foto": false
@@ -14812,6 +15517,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 027",
     "imagem_base": "13646_C2925",
     "imagens": [],
     "tem_foto": false
@@ -14832,6 +15538,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 027",
     "imagem_base": "13647_C2925",
     "imagens": [],
     "tem_foto": false
@@ -14852,6 +15559,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13660_C2926",
     "imagens": [
       "13660_C2926_4F.png"
@@ -14874,6 +15582,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2925",
     "imagens": [],
     "tem_foto": false
@@ -14894,6 +15603,7 @@
     "obs": "",
     "saldo": 6.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2922",
     "imagens": [],
     "tem_foto": false
@@ -14914,6 +15624,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2927",
     "imagens": [],
     "tem_foto": false
@@ -14934,6 +15645,7 @@
     "obs": "",
     "saldo": 140.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2926",
     "imagens": [],
     "tem_foto": false
@@ -14954,6 +15666,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2925",
     "imagens": [],
     "tem_foto": false
@@ -14974,6 +15687,7 @@
     "obs": "",
     "saldo": 88.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13646_C2923",
     "imagens": [],
     "tem_foto": false
@@ -14994,6 +15708,7 @@
     "obs": "",
     "saldo": 116.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13648_C2925",
     "imagens": [],
     "tem_foto": false
@@ -15014,6 +15729,7 @@
     "obs": "",
     "saldo": 86.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2926",
     "imagens": [],
     "tem_foto": false
@@ -15034,6 +15750,7 @@
     "obs": "",
     "saldo": 129.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13646_C2925",
     "imagens": [],
     "tem_foto": false
@@ -15054,6 +15771,7 @@
     "obs": "",
     "saldo": 58.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2936",
     "imagens": [],
     "tem_foto": false
@@ -15074,6 +15792,7 @@
     "obs": "",
     "saldo": 96.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13646_C2936",
     "imagens": [],
     "tem_foto": false
@@ -15094,6 +15813,7 @@
     "obs": "",
     "saldo": 116.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15114,6 +15834,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2936",
     "imagens": [],
     "tem_foto": false
@@ -15134,6 +15855,7 @@
     "obs": "",
     "saldo": 80.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2936",
     "imagens": [],
     "tem_foto": false
@@ -15154,6 +15876,7 @@
     "obs": "",
     "saldo": 86.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13646_C2926",
     "imagens": [],
     "tem_foto": false
@@ -15174,6 +15897,7 @@
     "obs": "",
     "saldo": 84.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2925",
     "imagens": [],
     "tem_foto": false
@@ -15194,6 +15918,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13646_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15214,6 +15939,7 @@
     "obs": "",
     "saldo": 113.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15234,6 +15960,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13648_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15254,6 +15981,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15274,6 +16002,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13646_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15294,6 +16023,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15314,6 +16044,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2927",
     "imagens": [],
     "tem_foto": false
@@ -15334,6 +16065,7 @@
     "obs": "",
     "saldo": 114.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2925",
     "imagens": [],
     "tem_foto": false
@@ -15354,6 +16086,7 @@
     "obs": "",
     "saldo": 50.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2936",
     "imagens": [],
     "tem_foto": false
@@ -15374,6 +16107,7 @@
     "obs": "",
     "saldo": 40.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13646_C2926",
     "imagens": [],
     "tem_foto": false
@@ -15394,6 +16128,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2926",
     "imagens": [],
     "tem_foto": false
@@ -15414,6 +16149,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15434,6 +16170,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13648_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15454,6 +16191,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2927",
     "imagens": [],
     "tem_foto": false
@@ -15474,6 +16212,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13646_C2927",
     "imagens": [],
     "tem_foto": false
@@ -15494,6 +16233,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13646_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15514,6 +16254,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2926",
     "imagens": [],
     "tem_foto": false
@@ -15534,6 +16275,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13648_C2923",
     "imagens": [],
     "tem_foto": false
@@ -15554,6 +16296,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2926",
     "imagens": [],
     "tem_foto": false
@@ -15574,6 +16317,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2936",
     "imagens": [],
     "tem_foto": false
@@ -15594,6 +16338,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13648_C2936",
     "imagens": [],
     "tem_foto": false
@@ -15614,6 +16359,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2936",
     "imagens": [],
     "tem_foto": false
@@ -15634,6 +16380,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2923",
     "imagens": [],
     "tem_foto": false
@@ -15654,6 +16401,7 @@
     "obs": "",
     "saldo": 15.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13648_C2923",
     "imagens": [],
     "tem_foto": false
@@ -15674,6 +16422,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2923",
     "imagens": [],
     "tem_foto": false
@@ -15694,6 +16443,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13648_C2936",
     "imagens": [],
     "tem_foto": false
@@ -15714,6 +16464,7 @@
     "obs": "",
     "saldo": 80.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2923",
     "imagens": [],
     "tem_foto": false
@@ -15734,6 +16485,7 @@
     "obs": "",
     "saldo": 35.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13648_C2923",
     "imagens": [],
     "tem_foto": false
@@ -15754,6 +16506,7 @@
     "obs": "",
     "saldo": 40.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13648_C2936",
     "imagens": [],
     "tem_foto": false
@@ -15774,6 +16527,7 @@
     "obs": "",
     "saldo": 40.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13646_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15794,6 +16548,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13649_C2923",
     "imagens": [],
     "tem_foto": false
@@ -15814,6 +16569,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13647_C2927",
     "imagens": [],
     "tem_foto": false
@@ -15834,6 +16590,7 @@
     "obs": "",
     "saldo": 50.0,
     "unidade": "PC",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13646_C2923",
     "imagens": [],
     "tem_foto": false
@@ -15854,6 +16611,7 @@
     "obs": "8 PC COM 10GR , 1 PC COM 5 GR E 1 PC COM 6 GR",
     "saldo": 91.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 028",
     "imagem_base": "13648_C2944",
     "imagens": [],
     "tem_foto": false
@@ -15874,6 +16632,7 @@
     "obs": "4 PC COM 10 GR E 1 PC COM 4GR",
     "saldo": 44.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 029",
     "imagem_base": "13646_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15894,6 +16653,7 @@
     "obs": "7 PC COM 10 GRS  E 1 PC COM 1 GRS",
     "saldo": 71.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 029",
     "imagem_base": "13659_C2944",
     "imagens": [],
     "tem_foto": false
@@ -15914,6 +16674,7 @@
     "obs": "4 PC COM 10 GR E 1 PC COM 1 GR",
     "saldo": 41.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 029",
     "imagem_base": "13649_C2922",
     "imagens": [],
     "tem_foto": false
@@ -15934,6 +16695,7 @@
     "obs": "31 PC COM 10 GR",
     "saldo": 310.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 030",
     "imagem_base": "13659_C2944",
     "imagens": [],
     "tem_foto": false
@@ -15954,6 +16716,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10683_C173",
     "imagens": [],
     "tem_foto": false
@@ -15974,6 +16737,7 @@
     "obs": "",
     "saldo": 0.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10226_C654",
     "imagens": [],
     "tem_foto": false
@@ -15994,6 +16758,7 @@
     "obs": "",
     "saldo": 15.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C100",
     "imagens": [],
     "tem_foto": false
@@ -16014,6 +16779,7 @@
     "obs": "FOSCO",
     "saldo": 31.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -16038,6 +16804,7 @@
     "obs": "12 PC COM 10 GR e 1 pc com 5gr",
     "saldo": 125.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 030",
     "imagem_base": "13649_C2914",
     "imagens": [],
     "tem_foto": false
@@ -16058,6 +16825,7 @@
     "obs": "",
     "saldo": 27.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "10183_C016",
     "imagens": [],
     "tem_foto": false
@@ -16078,6 +16846,7 @@
     "obs": "",
     "saldo": 30.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "11090_C002",
     "imagens": [],
     "tem_foto": false
@@ -16098,6 +16867,7 @@
     "obs": "BRILHO",
     "saldo": 57.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 019",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -16123,6 +16893,7 @@
     "obs": "16 PC COM 10 GR E 1 PC COM 4 GR",
     "saldo": 164.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 030",
     "imagem_base": "13649_C2922",
     "imagens": [],
     "tem_foto": false
@@ -16143,6 +16914,7 @@
     "obs": "29 PC COM 10GRS",
     "saldo": 290.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 031",
     "imagem_base": "13649_C2928",
     "imagens": [],
     "tem_foto": false
@@ -16163,6 +16935,7 @@
     "obs": "",
     "saldo": 166.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 042",
     "imagem_base": "10313_C3055",
     "imagens": [],
     "tem_foto": false
@@ -16183,6 +16956,7 @@
     "obs": "",
     "saldo": 138.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 043",
     "imagem_base": "10343_C3053",
     "imagens": [
       "10343_C3053_4F.png"
@@ -16205,6 +16979,7 @@
     "obs": "",
     "saldo": 156.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 044",
     "imagem_base": "10343_C329",
     "imagens": [
       "10343_C329_4F.png"
@@ -16227,6 +17002,7 @@
     "obs": "",
     "saldo": 140.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 041",
     "imagem_base": "10343_C3054",
     "imagens": [
       "10343_C3054_4F.png"
@@ -16249,6 +17025,7 @@
     "obs": "",
     "saldo": 137.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 054",
     "imagem_base": "10343_C3052",
     "imagens": [
       "10343_C3052_4F.png"
@@ -16271,6 +17048,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "10366_C189",
     "imagens": [
       "10366_C189_4F.jpg"
@@ -16293,6 +17071,7 @@
     "obs": "",
     "saldo": 32.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "1805_C321",
     "imagens": [],
     "tem_foto": false
@@ -16313,6 +17092,7 @@
     "obs": "",
     "saldo": 24.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "10188_C022",
     "imagens": [
       "10188_C022.png",
@@ -16337,6 +17117,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "10223_C120",
     "imagens": [
       "10223_C120_1F.jpg"
@@ -16359,6 +17140,7 @@
     "obs": "",
     "saldo": 21.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "1683_C788",
     "imagens": [],
     "tem_foto": false
@@ -16379,6 +17161,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "284_C011",
     "imagens": [],
     "tem_foto": false
@@ -16399,6 +17182,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "11407_C920",
     "imagens": [
       "11407_C920_1F.jpg"
@@ -16421,6 +17205,7 @@
     "obs": "",
     "saldo": 3.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "10368_C2361",
     "imagens": [],
     "tem_foto": false
@@ -16441,6 +17226,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "10366_C189",
     "imagens": [
       "10366_C189_4F.jpg"
@@ -16463,6 +17249,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "10223_C003",
     "imagens": [
       "10223_C003_1F.jpg"
@@ -16485,6 +17272,7 @@
     "obs": "",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "11180_C011",
     "imagens": [],
     "tem_foto": false
@@ -16505,6 +17293,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "10188_C022",
     "imagens": [
       "10188_C022.png",
@@ -16529,6 +17318,7 @@
     "obs": "",
     "saldo": 230.0,
     "unidade": "PC",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "11399_C920",
     "imagens": [
       "11399_C920_1F.jpg"
@@ -16551,6 +17341,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 040",
     "imagem_base": "10250_C134",
     "imagens": [],
     "tem_foto": false
@@ -16571,6 +17362,7 @@
     "obs": "PARA TINGIR EM CORES",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 045",
     "imagem_base": "12820_C2142",
     "imagens": [],
     "tem_foto": false
@@ -16591,6 +17383,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 045",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -16616,6 +17409,7 @@
     "obs": "",
     "saldo": 8.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 045",
     "imagem_base": "12820_C2142",
     "imagens": [],
     "tem_foto": false
@@ -16636,6 +17430,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 045",
     "imagem_base": "10139_C001+459",
     "imagens": [],
     "tem_foto": false
@@ -16656,6 +17451,7 @@
     "obs": "",
     "saldo": 17.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 045",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -16681,6 +17477,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 045",
     "imagem_base": "13094_C1791",
     "imagens": [
       "13094_C1791_4F.png",
@@ -16705,6 +17502,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 045",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -16730,6 +17528,7 @@
     "obs": "GR",
     "saldo": 21.0,
     "unidade": "ATIVO",
+    "localizacao": "Corredor A / Caixa 045",
     "imagem_base": "90005_C1000",
     "imagens": [
       "90005_C1000.png",
@@ -16754,6 +17553,7 @@
     "obs": "",
     "saldo": 339.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 045",
     "imagem_base": "1287_C110",
     "imagens": [],
     "tem_foto": false
@@ -16774,6 +17574,7 @@
     "obs": "1 PC COM 45GR E 1 PC COM 77GRS",
     "saldo": 122.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 020",
     "imagem_base": "10350_C154",
     "imagens": [],
     "tem_foto": false
@@ -16794,6 +17595,7 @@
     "obs": "",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 045",
     "imagem_base": "10350_C154",
     "imagens": [],
     "tem_foto": false
@@ -16814,6 +17616,7 @@
     "obs": "",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 045",
     "imagem_base": "10350_C154",
     "imagens": [],
     "tem_foto": false
@@ -16834,6 +17637,7 @@
     "obs": "",
     "saldo": 26.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 045",
     "imagem_base": "10350_C154",
     "imagens": [],
     "tem_foto": false
@@ -16854,6 +17658,7 @@
     "obs": "",
     "saldo": 22.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 021",
     "imagem_base": "90001_C100",
     "imagens": [],
     "tem_foto": false
@@ -16874,6 +17679,7 @@
     "obs": "",
     "saldo": 20.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "13346_C2492",
     "imagens": [],
     "tem_foto": false
@@ -16894,6 +17700,7 @@
     "obs": "",
     "saldo": 22.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 046",
     "imagem_base": "10350_C154",
     "imagens": [],
     "tem_foto": false
@@ -16914,6 +17721,7 @@
     "obs": "",
     "saldo": 12.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 046",
     "imagem_base": "10350_C154",
     "imagens": [],
     "tem_foto": false
@@ -16934,6 +17742,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 046",
     "imagem_base": "10350_C154",
     "imagens": [],
     "tem_foto": false
@@ -16954,6 +17763,7 @@
     "obs": "",
     "saldo": 23.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 046",
     "imagem_base": "10350_C090",
     "imagens": [],
     "tem_foto": false
@@ -16974,6 +17784,7 @@
     "obs": "",
     "saldo": 25.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 046",
     "imagem_base": "10350_C090",
     "imagens": [],
     "tem_foto": false
@@ -16994,6 +17805,7 @@
     "obs": "",
     "saldo": 13.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 046",
     "imagem_base": "10350_C090",
     "imagens": [],
     "tem_foto": false
@@ -17014,6 +17826,7 @@
     "obs": "",
     "saldo": 10.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 038",
     "imagem_base": "11133_C001",
     "imagens": [],
     "tem_foto": false
@@ -17034,6 +17847,7 @@
     "obs": "",
     "saldo": 34.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 046",
     "imagem_base": "10350_C090",
     "imagens": [],
     "tem_foto": false
@@ -17054,6 +17868,7 @@
     "obs": "",
     "saldo": 24.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 046",
     "imagem_base": "10350_C090",
     "imagens": [],
     "tem_foto": false
@@ -17074,6 +17889,7 @@
     "obs": "1 PC COM 18GR ; 1 PC COM 72 GR ; 1 PC COM 60GR ;  1 PC COM 89 GR",
     "saldo": 239.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 046",
     "imagem_base": "10350_C090",
     "imagens": [],
     "tem_foto": false
@@ -17094,6 +17910,7 @@
     "obs": "",
     "saldo": 95.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 046",
     "imagem_base": "10135_C1000",
     "imagens": [
       "10135_C1000_2F.png",
@@ -17119,6 +17936,7 @@
     "obs": "",
     "saldo": 123.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "13282_C1000",
     "imagens": [],
     "tem_foto": false
@@ -17139,6 +17957,7 @@
     "obs": "",
     "saldo": 51.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90005_C1000",
     "imagens": [
       "90005_C1000.png",
@@ -17163,6 +17982,7 @@
     "obs": "",
     "saldo": 29.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90005_C1000",
     "imagens": [
       "90005_C1000.png",
@@ -17187,6 +18007,7 @@
     "obs": "",
     "saldo": 29.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "10245_C001",
     "imagens": [],
     "tem_foto": false
@@ -17207,6 +18028,7 @@
     "obs": "",
     "saldo": 4.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "11935_C001",
     "imagens": [],
     "tem_foto": false
@@ -17227,6 +18049,7 @@
     "obs": "",
     "saldo": 2.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "10245_C001+27",
     "imagens": [],
     "tem_foto": false
@@ -17247,6 +18070,7 @@
     "obs": "",
     "saldo": 42.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "10245_C001",
     "imagens": [],
     "tem_foto": false
@@ -17267,6 +18091,7 @@
     "obs": "PARA TINGIMENTO",
     "saldo": 19.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "10139_C001",
     "imagens": [
       "10139_C001.png",
@@ -17292,6 +18117,7 @@
     "obs": "",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90002_C100",
     "imagens": [],
     "tem_foto": false
@@ -17312,6 +18138,7 @@
     "obs": "",
     "saldo": 41.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "10139_C001+27",
     "imagens": [],
     "tem_foto": false
@@ -17332,6 +18159,7 @@
     "obs": "",
     "saldo": 40.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90002_C100",
     "imagens": [],
     "tem_foto": false
@@ -17352,6 +18180,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 022",
     "imagem_base": "6028_C320",
     "imagens": [
       "6028_C320_4F.png",
@@ -17376,6 +18205,7 @@
     "obs": "",
     "saldo": 34.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "10139_C001+27",
     "imagens": [],
     "tem_foto": false
@@ -17396,6 +18226,7 @@
     "obs": "",
     "saldo": 40.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90007_C320",
     "imagens": [],
     "tem_foto": false
@@ -17416,6 +18247,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90002_C100+X",
     "imagens": [],
     "tem_foto": false
@@ -17436,6 +18268,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90002_C100+27",
     "imagens": [],
     "tem_foto": false
@@ -17456,6 +18289,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90002_C001",
     "imagens": [],
     "tem_foto": false
@@ -17476,6 +18310,7 @@
     "obs": "",
     "saldo": 18.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90007_C320",
     "imagens": [],
     "tem_foto": false
@@ -17496,6 +18331,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90002_C001",
     "imagens": [],
     "tem_foto": false
@@ -17516,6 +18352,7 @@
     "obs": "",
     "saldo": 11.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90007_C320",
     "imagens": [],
     "tem_foto": false
@@ -17536,6 +18373,7 @@
     "obs": "",
     "saldo": 50.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "13442_C001",
     "imagens": [],
     "tem_foto": false
@@ -17556,6 +18394,7 @@
     "obs": "",
     "saldo": 94.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "1592_C076",
     "imagens": [],
     "tem_foto": false
@@ -17576,6 +18415,7 @@
     "obs": "",
     "saldo": 51.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "1287_C2586",
     "imagens": [],
     "tem_foto": false
@@ -17596,6 +18436,7 @@
     "obs": "",
     "saldo": 22.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "1287_C2618",
     "imagens": [],
     "tem_foto": false
@@ -17616,6 +18457,7 @@
     "obs": "",
     "saldo": 23.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "1287_C2615",
     "imagens": [],
     "tem_foto": false
@@ -17636,6 +18478,7 @@
     "obs": "",
     "saldo": 29.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "12140_C101",
     "imagens": [],
     "tem_foto": false
@@ -17656,6 +18499,7 @@
     "obs": "",
     "saldo": 42.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "2802_C1608",
     "imagens": [],
     "tem_foto": false
@@ -17676,6 +18520,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "10717_C215",
     "imagens": [
       "10717_C215_1F.png",
@@ -17699,6 +18544,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "13538_C2665",
     "imagens": [
       "13538_C2665_4F.png"
@@ -17721,6 +18567,7 @@
     "obs": "",
     "saldo": 1.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "11368_C2500",
     "imagens": [
       "11368_C2500_4F.png"
@@ -17743,6 +18590,7 @@
     "obs": "",
     "saldo": 38.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "10248_C205",
     "imagens": [
       "10248_C205_4F.jpg"
@@ -17765,6 +18613,7 @@
     "obs": "",
     "saldo": 39.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "1489_C139",
     "imagens": [],
     "tem_foto": false
@@ -17785,6 +18634,7 @@
     "obs": "",
     "saldo": 25.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "1287_C2613",
     "imagens": [],
     "tem_foto": false
@@ -17805,6 +18655,7 @@
     "obs": "",
     "saldo": 51.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "12140_C101+27",
     "imagens": [],
     "tem_foto": false
@@ -17825,6 +18676,7 @@
     "obs": "",
     "saldo": 44.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 047",
     "imagem_base": "1592_C076+27",
     "imagens": [],
     "tem_foto": false
@@ -17845,6 +18697,7 @@
     "obs": "",
     "saldo": 61.0,
     "unidade": "GR",
+    "localizacao": "Corredor A / Caixa 051",
     "imagem_base": "1287_C110",
     "imagens": [],
     "tem_foto": false
@@ -17865,6 +18718,7 @@
     "obs": "",
     "saldo": 16.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90001_C920",
     "imagens": [],
     "tem_foto": false
@@ -17885,6 +18739,7 @@
     "obs": "",
     "saldo": 9.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90001_C920",
     "imagens": [],
     "tem_foto": false
@@ -17905,6 +18760,7 @@
     "obs": "",
     "saldo": 5.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90001_C920",
     "imagens": [],
     "tem_foto": false
@@ -17925,6 +18781,7 @@
     "obs": "",
     "saldo": 7.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 025",
     "imagem_base": "90001_C920",
     "imagens": [],
     "tem_foto": false
@@ -17945,6 +18802,7 @@
     "obs": "",
     "saldo": 33.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 032",
     "imagem_base": "90001_C001",
     "imagens": [
       "90001_C001_4F.png",
@@ -17969,6 +18827,7 @@
     "obs": "",
     "saldo": 16.0,
     "unidade": "GR",
+    "localizacao": "Corredor B / Caixa 032",
     "imagem_base": "90001_C100",
     "imagens": [],
     "tem_foto": false
